@@ -1,0 +1,63 @@
+# HP Victus 15 Thanksgiving campaign: simulation report
+
+Model: `qwen3.8:27b-mlx` | personas: 20 | ads: 6
+
+**Hypothesis:** During Thanksgiving week, concrete proof and candid trade-offs persuade gaming-laptop shoppers better than a plain spec sheet or deadline pressure. Gift framing helps only with parents buying for a teenager, not with enthusiasts.
+
+## Overall (mean rank: 1=best; click = picked as THE ad to click)
+
+| ad | mean rank r1 | mean rank after peers | click r1 | click after peers |
+|---|---|---|---|---|
+| Candid trade-offs | 1.55 | 1.65 | 65% | 55% |
+| Upgradeable | 2.35 | 2.25 | 0% | 10% |
+| Gift framing | 3.1 | 3.05 | 15% | 15% |
+| Spec sheet (control) | 4.1 | 4 | 0% | 0% |
+| Measured proof | 4.05 | 4.2 | 5% | 5% |
+| Urgency | 5.85 | 5.85 | 0% | 0% |
+| *(clicks none)* | | | 15% | 15% |
+
+## Mean rank after peers, by segment (lower is better)
+
+| segment | Spec sheet (control) | Measured proof | Upgradeable | Gift framing | Candid trade-offs | Urgency |
+|---|---|---|---|---|---|---|
+| Student gamer on a budget | 4 | 4.4 | 2.4 | 3.2 | 1 | 6 |
+| Parent buying a gift | 3.6 | 5 | 2.2 | 1.8 | 2.6 | 5.8 |
+| Competitive enthusiast | 4.6 | 2.8 | 2 | 4 | 1.8 | 5.8 |
+| Work-and-play buyer | 3.8 | 4.6 | 2.4 | 3.2 | 1.2 | 5.8 |
+
+## First choice (would click) after peers, by segment
+
+| segment | Spec sheet (control) | Measured proof | Upgradeable | Gift framing | Candid trade-offs | Urgency | none |
+|---|---|---|---|---|---|---|---|
+| Student gamer on a budget | 0% | 0% | 0% | 0% | 100% | 0% | 0% |
+| Parent buying a gift | 0% | 0% | 20% | 60% | 20% | 0% | 0% |
+| Competitive enthusiast | 0% | 20% | 20% | 0% | 40% | 0% | 20% |
+| Work-and-play buyer | 0% | 0% | 0% | 0% | 60% | 0% | 40% |
+
+## Why people ranked each ad last (round 1)
+
+- **Spec sheet (control)** / Takumi Sato (Competitive enthusiast): ""Measured proof" is the only one that speaks my language by citing a specific, verifiable performance metric (176 FPS in CS2) rather than relying on hollow marketing fluff or trying to sell me a $800 plastic toy as a premium device. As a PC builder who already owns an RTX 3070 desktop, I don't need a 'gift' or an 'upgrade path' for a secondary device; I need to know if the 80W TGP is throttling the chip into the ground, and "Measured proof" is the only one that attempts to quantify that reality, even if the chassis is likely garbage."
+- **Measured proof** / Jamal Washington (Parent buying a gift): ""Candid trade-offs" is the only one that respects my intelligence by admitting the plastic build quality instead of hiding it, which aligns with my need for durability and value over flashy marketing. "Upgradeable" is a close second because it highlights the upgradeability, which is crucial for a laptop I want my son to use for years without me having to replace it."
+- **Measured proof** / Beatrix Holloway (Work-and-play buyer): "I am completely turned off by the 'gaming' jargon and aggressive sales tactics in most of these emails; as a teacher, I need to know if this machine is reliable and easy to fix, not how many frames per second it renders. "Candid trade-offs" is the only one that speaks my language by admitting the plastic build quality, which feels honest, while "Gift framing"’s 'school and game night' angle is the only other one that respects my actual life, even if it’s still too technical."
+- **Urgency** / Hannah Bergstrom (Student gamer on a budget): ""Candid trade-offs" is the only one that respects my intelligence by admitting the plastic build quality while explaining why the money went into the RTX 5050, which is what I actually care about for performance; "Upgradeable" is also decent for highlighting upgradeability, but "Candid trade-offs"'s honesty about the 'skipping premium finish' aligns with my student budget mindset. I would ignore the rest because "Urgency" is annoying spam, "Spec sheet (control)" is a boring spec sheet I can't parse, "Measured proof" sounds like a lab test that doesn't match my real-world usage, and "Gift framing" is too vague and generic."
+- **Urgency** / Mei-Ling Chua (Student gamer on a budget): "I'm completely turned off by the urgency tactics in "Urgency" and the irrelevant FPS stat in "Measured proof", but "Candid trade-offs" is the only one that respects my intelligence by admitting the chassis is plastic and prioritizing the GPU performance I actually need. "Upgradeable" is also decent for mentioning upgrades, but "Candid trade-offs"'s honesty about the 'modest' screen and lack of premium finish aligns better with my budget constraints and my desire to avoid marketing fluff."
+
+## Verdict
+
+**Round 1 (independent)**
+- Measured-FPS proof beats the spec-sheet ad overall: Measured proof 4.05 vs Spec sheet (control) 4.1 (gap 0.05, need 0.3) -> **FAIL**
+- The candid trade-off ad beats the urgency ad overall: Candid trade-offs 1.55 vs Urgency 5.85 (gap 4.3, need 0.3) -> **PASS**
+- Gift framing beats the spec-sheet ad with parents buying a gift: Gift framing 2 vs Spec sheet (control) 4 (gap 2, need 0.3) in Parent buying a gift -> **PASS**
+- Measured-FPS proof beats gift framing with competitive enthusiasts: Measured proof 2.6 vs Gift framing 4 (gap 1.4, need 0.3) in Competitive enthusiast -> **PASS**
+- Urgency ranks below measured-FPS proof with budget students: Measured proof 4.4 vs Urgency 6 (gap 1.6, need 0.3) in Student gamer on a budget -> **PASS**
+- Hypothesis NOT SUPPORTED (n=20; rank gaps under ~0.4 are noise).
+
+**After peers**
+- Measured-FPS proof beats the spec-sheet ad overall: Measured proof 4.2 vs Spec sheet (control) 4 (gap -0.2, need 0.3) -> **FAIL**
+- The candid trade-off ad beats the urgency ad overall: Candid trade-offs 1.65 vs Urgency 5.85 (gap 4.2, need 0.3) -> **PASS**
+- Gift framing beats the spec-sheet ad with parents buying a gift: Gift framing 1.8 vs Spec sheet (control) 3.6 (gap 1.8, need 0.3) in Parent buying a gift -> **PASS**
+- Measured-FPS proof beats gift framing with competitive enthusiasts: Measured proof 2.8 vs Gift framing 4 (gap 1.2, need 0.3) in Competitive enthusiast -> **PASS**
+- Urgency ranks below measured-FPS proof with budget students: Measured proof 4.4 vs Urgency 6 (gap 1.6, need 0.3) in Student gamer on a budget -> **PASS**
+- Hypothesis NOT SUPPORTED (n=20; rank gaps under ~0.4 are noise).
+
+> Synthetic personas are a cheap filter for wording, not evidence of real-world conversion. Validate winners with a real A/B test.

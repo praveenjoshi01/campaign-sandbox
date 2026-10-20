@@ -1,0 +1,64 @@
+{
+  "hypothesis": "During Thanksgiving week, concrete proof and candid trade-offs persuade gaming-laptop shoppers better than a plain spec sheet or deadline pressure. Gift framing helps only with parents buying for a teenager, not with enthusiasts.",
+  "success_criteria": [
+    {
+      "label": "Measured-FPS proof beats the spec-sheet ad overall",
+      "better": "B_proof_number",
+      "worse": "A_spec_sheet",
+      "by": 0.3
+    },
+    {
+      "label": "The candid trade-off ad beats the urgency ad overall",
+      "better": "E_honest_tradeoff",
+      "worse": "F_urgency",
+      "by": 0.3
+    },
+    {
+      "label": "Gift framing beats the spec-sheet ad with parents buying a gift",
+      "better": "D_gift",
+      "worse": "A_spec_sheet",
+      "by": 0.3,
+      "segment": "parent_gift_buyer"
+    },
+    {
+      "label": "Measured-FPS proof beats gift framing with competitive enthusiasts",
+      "better": "B_proof_number",
+      "worse": "D_gift",
+      "by": 0.3,
+      "segment": "competitive_enthusiast"
+    },
+    {
+      "label": "Urgency ranks below measured-FPS proof with budget students",
+      "better": "B_proof_number",
+      "worse": "F_urgency",
+      "by": 0.3,
+      "segment": "student_budget_gamer"
+    }
+  ],
+  "variants": {
+    "A_spec_sheet": {
+      "label": "Spec sheet (control)",
+      "text": "HP Victus 15 gaming laptop with NVIDIA GeForce RTX 5050 (8GB), a 15.6-inch Full HD 144Hz display and a 512GB SSD. Thanksgiving price: $799."
+    },
+    "B_proof_number": {
+      "label": "Measured proof",
+      "text": "176 frames per second in Counter-Strike 2 at 1080p, Very High settings: that is what an independent lab measured on the HP Victus 15 with RTX 5050. Thanksgiving price: $799."
+    },
+    "C_upgradable": {
+      "label": "Upgradeable",
+      "text": "Buy it now, upgrade it later. The HP Victus 15 has two RAM slots and two SSD slots, so more memory or storage means buying a part, not a new laptop. RTX 5050 graphics, 144Hz Full HD. Thanksgiving price: $799."
+    },
+    "D_gift": {
+      "label": "Gift framing",
+      "text": "The Thanksgiving gift that works for school and for game night. HP Victus 15: RTX 5050 graphics, a 144Hz Full HD screen and room to upgrade. $799 from Thanksgiving through Cyber Monday."
+    },
+    "E_honest_tradeoff": {
+      "label": "Candid trade-offs",
+      "text": "Plastic body. Modest screen colors. Serious RTX 5050 graphics for the money. The HP Victus 15 skips the premium finish so the budget goes to performance: 8GB RTX 5050, 144Hz Full HD, upgradeable RAM and SSD. Thanksgiving price: $799."
+    },
+    "F_urgency": {
+      "label": "Urgency",
+      "text": "BLACK FRIDAY DOORBUSTER! HP Victus 15 gaming laptop, only $799. Thanksgiving through Cyber Monday, then the price is gone. Don't miss out, hurry!"
+    }
+  }
+}

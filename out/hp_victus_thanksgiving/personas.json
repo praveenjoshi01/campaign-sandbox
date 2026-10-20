@@ -1,0 +1,222 @@
+[
+  {
+    "name": "Hannah Bergstrom",
+    "age": 19,
+    "job": "College Freshman",
+    "household": "Dorm room with roommate",
+    "budget_context": "Can spend $450 max this semester; owns a 6-year-old Chromebook with 4GB RAM that chokes on modern titles, relying on cloud gaming or old Steam games.",
+    "knowledge_context": "Knows 'i5 vs i7' but confuses GPU tiers; relies heavily on r/LaptopGaming for 'is it worth it' threads and avoids spec sheets in favor of 'real-world performance' YouTube reviews from channels with honest disclaimers.",
+    "bio": "Hates 'gamers' branding on laptops as she feels it implies she has disposable income she doesn't have; will ignore any ad that doesn't explicitly mention student discounts or trade-in value for her old device.",
+    "segment": "student_budget_gamer",
+    "id": "student_budget_gamer_0"
+  },
+  {
+    "name": "Mei-Ling Chua",
+    "age": 21,
+    "job": "Community College Student / Part-time Barista",
+    "household": "Lives with parents",
+    "budget_context": "Can stretch to $600 if it lasts 3 years; owns a heavy, outdated 15-inch laptop with a broken fan, forcing her to play only on a shared family console or via emulation.",
+    "knowledge_context": "Researches thermal throttling and build quality on Reddit because she\u2019s burned before by a cheap plastic laptop that overheated; ignores flashy RGB marketing and prioritizes keyboard durability and battery life for commute to campus.",
+    "bio": "Views 'limited-time offers' with extreme skepticism, assuming they are fake urgency tactics; prefers buying used or refurbished from verified local vendors over new retail to avoid the 'student tax' on electronics.",
+    "segment": "student_budget_gamer",
+    "id": "student_budget_gamer_1"
+  },
+  {
+    "name": "Miguel Alvarado",
+    "age": 18,
+    "job": "High School Senior / Weekend Warehouse Worker",
+    "household": "Lives with parents and younger siblings",
+    "budget_context": "Has $800 saved from birthday gifts and job savings; currently uses a 10-year-old desktop that can\u2019t run anything post-2015, so he mostly games on a friend's PS4 or mobile phone.",
+    "knowledge_context": "Follows tech YouTubers who do 'budget build' or 'best value' reviews; understands that he needs a dedicated GPU but is terrified of buying a laptop that will be obsolete in two years, so he looks for models with upgradable RAM/SSD.",
+    "bio": "Is highly suspicious of 'premium' branding and will click away from any ad that looks like a high-end luxury product; trusts peer recommendations from his Discord server over brand marketing, viewing ads as a distraction from his saving goals.",
+    "segment": "student_budget_gamer",
+    "id": "student_budget_gamer_2"
+  },
+  {
+    "name": "Tamsin Whitlock",
+    "age": 24,
+    "job": "Graduate Student / Teaching Assistant",
+    "household": "Shares a 1-bedroom apartment with one roommate",
+    "budget_context": "Can spend $1,000 but it\u2019s painful; owns a business-class laptop from 5 years ago that lacks a dedicated GPU, so she only games on an old Xbox One X or uses cloud services, missing out on local multiplayer.",
+    "knowledge_context": "Reads detailed technical reviews on Notebookcheck and Tom\u2019s Hardware to understand power limits and screen color accuracy; values portability and weight over raw performance because she carries it to the office and library daily.",
+    "bio": "Ignores 'gamer' aesthetics as pretentious and unnecessary; responds only to ads that highlight professional utility (e.g., 'also great for coding/editing') and transparent pricing, rejecting any opaque financing offers.",
+    "segment": "student_budget_gamer",
+    "id": "student_budget_gamer_3"
+  },
+  {
+    "name": "Maria Santos",
+    "age": 20,
+    "job": "Part-time Retail Associate",
+    "household": "Lives at home with parents",
+    "budget_context": "Can save $500 over 6 months; owns a 4-year-old laptop with a cracked screen and slow storage, currently gaming only on a borrowed console or mobile devices to avoid buying hardware.",
+    "knowledge_context": "Relies on 'honest review' tags on YouTube and checks Reddit for 'long-term ownership' complaints rather than unboxing videos; knows enough to avoid integrated graphics but is overwhelmed by jargon, so she trusts specific model recommendations from trusted creators.",
+    "bio": "Hates being targeted with ads for things she can\u2019t afford yet, finding it stressful and exclusionary; prefers direct, no-nonsense information about total cost of ownership (including insurance or warranty) over flashy lifestyle imagery.",
+    "segment": "student_budget_gamer",
+    "id": "student_budget_gamer_4"
+  },
+  {
+    "name": "Jamal Washington",
+    "age": 38,
+    "job": "High School Physical Education Teacher",
+    "household": "Married, one child (14-year-old)",
+    "budget_context": "Strict $400 cap. Currently owns a 7-year-old office laptop that is barely functional. Will not exceed budget regardless of sales pressure.",
+    "knowledge_context": "Zero knowledge of GPU/CPU specs. Relies entirely on the retailer's 'Best Value' badges and his son's specific model number on a handwritten wish list. Reads reviews only for 'does it overheat?' not performance metrics.",
+    "bio": "Deeply skeptical of marketing claims that imply his child needs a 'high-end' machine; views most tech advertising as predatory. Prioritizes durability and value over brand prestige, often ignoring flashy ads in favor of practical, no-nonsense deals.",
+    "segment": "parent_gift_buyer",
+    "id": "parent_gift_buyer_0"
+  },
+  {
+    "name": "Ravi Subramanian",
+    "age": 45,
+    "job": "Senior Financial Analyst",
+    "household": "Two-income family with three teenagers",
+    "budget_context": "Moderate $800 budget per child. Owns a standard 3-year-old business laptop. Has some flexibility but must balance three separate gifts without creating inequality.",
+    "knowledge_context": "Understands general tech concepts but delegates the specific spec research to his spouse or older children. Trusts retailer 'Curated for Teens' collections and verified customer ratings over detailed technical jargon.",
+    "bio": "Impatient with complex purchase journeys and easily fatigued by ad-heavy browsing experiences. Values convenience and 'family-safe' content filters heavily, often ignoring ads that target the parent's own interests in favor of curated kid-friendly options.",
+    "segment": "parent_gift_buyer",
+    "id": "parent_gift_buyer_1"
+  },
+  {
+    "name": "Ngozi Okafor",
+    "age": 36,
+    "job": "Night Shift Nurse and Weekend Retail Associate",
+    "household": "Single parent to a 17-year-old",
+    "budget_context": "Tight $500 budget. Owns a used tablet and a slow desktop. Every dollar is tracked; relies heavily on financing or 'buy now, pay later' to manage cash flow.",
+    "knowledge_context": "Minimal technical knowledge; overwhelmed by spec sheets. Relies on 'Top Rated' seals and peer reviews from other parents. Spends little time researching, instead looking for the most visible, heavily advertised 'deal' to minimize decision fatigue.",
+    "bio": "Exhausted and time-poor, she ignores ads that feel like 'noise' but responds to clear, concise messaging that promises 'no hassle' returns or extended warranties. Highly sensitive to perceived price gouging and will abandon a cart if the retailer seems to hide fees.",
+    "segment": "parent_gift_buyer",
+    "id": "parent_gift_buyer_2"
+  },
+  {
+    "name": "Arjun Patel",
+    "age": 58,
+    "job": "Retired Civil Engineer",
+    "household": "Empty nester, buying for 16-year-old grandson",
+    "budget_context": "Comfortable $700 budget. Owns a reliable but old non-gaming laptop. Willing to pay a premium for 'longevity' and 'reliability' to avoid a repeat purchase.",
+    "knowledge_context": "Technically curious but hesitant. Understands the difference between a 'gaming' and 'office' laptop but trusts the retailer's 'Expert Picks' more than his own research. Seeks validation through 'Parent Approved' or 'Award Winning' badges.",
+    "bio": "Skeptical of flashy, fast-paced video ads, preferring static, informative content that explains 'why' this model is good. Values trust and brand heritage, often ignoring trendy social media-driven marketing in favor of established retailer recommendations.",
+    "segment": "parent_gift_buyer",
+    "id": "parent_gift_buyer_3"
+  },
+  {
+    "name": "Linnea Berg",
+    "age": 42,
+    "job": "School Administrator",
+    "household": "Married, one 15-year-old child",
+    "budget_context": "Moderate $600 budget. Owns a standard 4-year-old laptop. Has no interest in gaming herself, so the purchase is purely transactional for the child's enjoyment.",
+    "knowledge_context": "No knowledge of gaming specs. Relies entirely on the child's specific request and the retailer's 'Family Friendly' or 'Safe' tags. Avoids complex spec comparisons, preferring 'All-in-One' bundles that include accessories.",
+    "bio": "Indifferent to gaming culture and ignores ads targeting gamers directly; responds only to messaging that highlights 'screen time management' or 'educational value'. Distrusts hyper-optimized sales pages, preferring clean, simple interfaces that don't push upsells aggressively.",
+    "segment": "parent_gift_buyer",
+    "id": "parent_gift_buyer_4"
+  },
+  {
+    "name": "Brendan O'Connor",
+    "age": 24,
+    "job": "Warehouse Logistics Coordinator",
+    "household": "Lives alone in a small apartment",
+    "budget_context": "Can stretch to $1,800 by saving overtime pay, but currently relies on a 5-year-old gaming laptop with a failing thermal paste job and a 60Hz panel that kills his reaction time in Valorant.",
+    "knowledge_context": "Deeply knowledgeable about input lag and refresh rates; ignores brand loyalty, checks NotebookCheck and r/GamingLaptops for throttling data before considering any purchase.",
+    "bio": "Views marketing as noise; only trusts user-submitted benchmark videos and spec sheets over glossy magazine ads. Will only spend money on a new machine if it demonstrably improves his frame time consistency without overheating within 10 minutes of ranked play.",
+    "segment": "competitive_enthusiast",
+    "id": "competitive_enthusiast_0"
+  },
+  {
+    "name": "Fatima Al-Sayed",
+    "age": 28,
+    "job": "Part-time Streamer / Freelance Graphic Designer",
+    "household": "Shares a flat with a roommate, works from a dedicated home office",
+    "budget_context": "Has a tight budget of $1,500 due to inconsistent streaming income, currently using a mid-range laptop that struggles with simultaneous encoding and gameplay at 1080p/144Hz.",
+    "knowledge_context": "Knows VRAM is critical for high-settings gameplay and OBS encoding; researches GPU encoding capabilities and thermals via YouTube tech reviewers who show unedited thermal tests.",
+    "bio": "Distrusts 'gamer aesthetic' branding and pays for performance, not RGB lights. Will skip a purchase if reviews indicate the GPU is power-limited or if the build quality feels flimsy for daily carry use.",
+    "segment": "competitive_enthusiast",
+    "id": "competitive_enthusiast_1"
+  },
+  {
+    "name": "Takumi Sato",
+    "age": 22,
+    "job": "PC-Building Hobbyist / Part-time IT Support",
+    "household": "Lives with parents, has a dedicated desk setup",
+    "budget_context": "Can spend up to $2,200 on a high-end laptop, but currently owns a custom-built desktop (RTX 3070) and uses a basic 15-inch ultrabook for portability, viewing a gaming laptop as a secondary device.",
+    "knowledge_context": "Expert knowledge of component ratios and price-to-performance; compares laptop GPUs to their discrete desktop counterparts and checks for undervolting options.",
+    "bio": "Hates the 'tax' for portability and refuses to pay for a laptop that doesn't match desktop performance within 15%. Only buys if the cooling solution is comparable to a desktop and the chassis is sturdy enough to survive daily commuting.",
+    "segment": "competitive_enthusiast",
+    "id": "competitive_enthusiast_2"
+  },
+  {
+    "name": "Darnell Brooks",
+    "age": 21,
+    "job": "University Student / Esports Club Member",
+    "household": "Lives in a university dorm room",
+    "budget_context": "Limited to $1,200, currently using a university-issued basic laptop that can't run ranked matches at high settings, relying on the club's LAN center for serious practice.",
+    "knowledge_context": "Knows basic specs but prioritizes portability and battery life for commuting to the club; checks Reddit threads for real-world student experiences rather than pro benchmarks.",
+    "bio": "Ignores flashy ads and looks for 'value' deals or student discounts; skeptical of claims about 'ultimate performance' if the battery dies in two hours. Will only upgrade if it allows him to play competitively on the go without carrying a heavy power brick and bulky cooler.",
+    "segment": "competitive_enthusiast",
+    "id": "competitive_enthusiast_3"
+  },
+  {
+    "name": "Esperanza Cruz",
+    "age": 33,
+    "job": "Marketing Analyst",
+    "household": "Lives with partner, no children",
+    "budget_context": "Can spend $1,600, but currently has no functional laptop as her old one cracked its screen and keyboard; owns a desktop PC at home but needs a reliable machine for travel and casual ranked sessions.",
+    "knowledge_context": "Knows enough to avoid low-tier GPUs but relies heavily on trusted tech journalism and long-term reliability reports; skeptical of new brands without a track record.",
+    "bio": "Distrusts aggressive sales tactics and prefers a straightforward transaction based on proven durability and after-sales support. Will not pay a premium for 'gamer' branding if a business-class laptop offers similar performance with better build quality and warranty.",
+    "segment": "competitive_enthusiast",
+    "id": "competitive_enthusiast_4"
+  },
+  {
+    "name": "Hassan Qureshi",
+    "age": 34,
+    "job": "Freelance video editor",
+    "household": "Lives alone in a city apartment",
+    "budget_context": "Willing to spend $1,800-$2,200; currently uses a 3-year-old MacBook Pro that chokes on 4K exports and a separate desktop for gaming. Needs a single device that handles both without lag.",
+    "knowledge_context": "Highly knowledgeable about color accuracy and CPU thermals; researches via Reddit's r/laptops and Tom's Hardware benchmarks, ignoring flashy brand marketing in favor of raw performance data.",
+    "bio": "Hassan is allergic to 'gamer' aesthetics with RGB lights and bulky designs; he wants a sleek, professional-looking machine that can still run AAA titles at 1080p. He views advertising as noise and only trusts peer-reviewed benchmarks or recommendations from trusted colleagues in the editing community.",
+    "segment": "work_and_play_hybrid",
+    "id": "work_and_play_hybrid_0"
+  },
+  {
+    "name": "Rafael Castillo",
+    "age": 29,
+    "job": "Software developer working from home",
+    "household": "Lives with partner, no children",
+    "budget_context": "Budget is $1,500-$1,900; owns a 2-year-old Dell XPS 13 that is great for coding but terrible for gaming. Prioritizes keyboard feel and developer tools compatibility over pure gaming FPS.",
+    "knowledge_context": "Moderate-to-high technical literacy; understands RAM and SSD speeds but doesn't care about GPU ray tracing. Researches on Amazon reviews and Stack Overflow discussions, looking for 'quiet under load' rather than peak performance.",
+    "bio": "Rafael is skeptical of 'work-and-play' marketing claims, suspecting they mean 'mediocre at both.' He prefers a minimalist design that blends into a home office and will not pay a premium for features he won't use, like dedicated GPU switches if the integrated graphics suffice for light gaming.",
+    "segment": "work_and_play_hybrid",
+    "id": "work_and_play_hybrid_1"
+  },
+  {
+    "name": "Zainab Yusuf",
+    "age": 38,
+    "job": "Nurse who games after night shifts",
+    "household": "Lives with spouse and two kids",
+    "budget_context": "Strict budget of $1,200-$1,400; owns a heavy, outdated gaming laptop that causes back pain and dies quickly. Needs portability and battery life for rare work days, plus enough power for casual gaming after 4 AM shifts.",
+    "knowledge_context": "Low-to-moderate knowledge; cares about screen size (15-inch max) and weight (under 4 lbs) more than specs. Researches via YouTube unboxings and consumer reports, focusing on durability and user comfort rather than technical benchmarks.",
+    "bio": "Zainab is exhausted by complex spec sheets and will ignore ads that look too 'techy' or aggressive. She values honesty and reliability, and is likely to buy from a brand she trusts for customer service, not the one with the highest framerate.",
+    "segment": "work_and_play_hybrid",
+    "id": "work_and_play_hybrid_2"
+  },
+  {
+    "name": "Beatrix Holloway",
+    "age": 45,
+    "job": "High-school teacher who plays on weekends",
+    "household": "Lives with partner, children in college",
+    "budget_context": "Can spend $1,000-$1,300; owns a 5-year-old laptop that is slow and has a cracked screen. Wants a durable, easy-to-use machine for grading papers and light weekend gaming like Minecraft or Stardew Valley.",
+    "knowledge_context": "Low technical knowledge; does not understand terms like 'dedicated GPU' or 'refresh rate.' Researches via local computer store recommendations and trusted friends, avoiding online tech forums that feel intimidating or elitist.",
+    "bio": "Beatrix is highly skeptical of marketing that targets 'gamers' and finds it exclusionary; she prefers brands that market 'reliability' and 'longevity.' She will not spend money on features she can't understand and values a good warranty and easy repair options over cutting-edge specs.",
+    "segment": "work_and_play_hybrid",
+    "id": "work_and_play_hybrid_3"
+  },
+  {
+    "name": "Callum Reid",
+    "age": 31,
+    "job": "Small-business owner who travels",
+    "household": "Lives alone, frequently in transit",
+    "budget_context": "Budget is $1,600-$2,000; owns a heavy gaming laptop and a separate ultralight for work, which is unsustainable for travel. Needs one premium, lightweight device that looks professional in client meetings but can run games in hotel rooms.",
+    "knowledge_context": "Moderate knowledge; cares about portability, battery life, and port selection (USB-C, HDMI) more than raw gaming power. Researches via travel tech blogs and business-focused reviews, ignoring consumer gaming sites entirely.",
+    "bio": "Callum is indifferent to 'gaming' branding and prefers a 'business-class' aesthetic that doesn't draw attention. He is willing to pay for premium build quality and convenience features like fast charging, but will reject any device that feels like a 'toy' or too loud for quiet spaces.",
+    "segment": "work_and_play_hybrid",
+    "id": "work_and_play_hybrid_4"
+  }
+]

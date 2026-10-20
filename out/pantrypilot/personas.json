@@ -1,0 +1,222 @@
+[
+  {
+    "name": "Noor Haddad",
+    "age": 24,
+    "job": "Barista",
+    "household": "Single, renting a studio",
+    "monthly_grocery_budget_usd": 180,
+    "app_subscriptions_owned": 0,
+    "bio": "I treat every subscription as a trap because I got charged for a 'free' trial streaming service three months ago and didn't notice until it hit my card. I only download apps if they are completely free and ad-supported, and I delete them immediately after I've extracted the value I needed.",
+    "segment": "skeptical_budget",
+    "id": "skeptical_budget_0"
+  },
+  {
+    "name": "Callum Reid",
+    "age": 38,
+    "job": "IT Support Technician",
+    "household": "Couple, no kids",
+    "monthly_grocery_budget_usd": 350,
+    "app_subscriptions_owned": 1,
+    "bio": "As someone in tech, I know exactly how data is harvested, so I\u2019m immune to emotional marketing and refuse to pay for conveniences I can build myself. We only keep one shared subscription because splitting the cost is the only way it makes financial sense, and we monitor our bank statements weekly to catch any rogue renewals.",
+    "segment": "skeptical_budget",
+    "id": "skeptical_budget_1"
+  },
+  {
+    "name": "Marguerite Dubois",
+    "age": 35,
+    "job": "Part-time Retail Clerk",
+    "household": "Single parent, two young kids",
+    "monthly_grocery_budget_usd": 280,
+    "app_subscriptions_owned": 0,
+    "bio": "I don't have time to be a consumer, let alone a target for predatory auto-renewal policies that eat into my childcare budget. I ignore all push notifications and only use apps that offer a permanent free tier, viewing any 'upgrade' prompt as a scam trying to take advantage of busy parents.",
+    "segment": "skeptical_budget",
+    "id": "skeptical_budget_2"
+  },
+  {
+    "name": "Kavita Menon",
+    "age": 72,
+    "job": "Retired Accountant",
+    "household": "Lives alone",
+    "monthly_grocery_budget_usd": 200,
+    "app_subscriptions_owned": 0,
+    "bio": "I fixed my phone settings to block all permissions and auto-payments the day after a fitness app tried to charge me $30 without explicit consent. I stick to the same three grocery stores and cash or check, because I trust tangible money more than digital ledgers that can be manipulated by 'forgot to cancel' clauses.",
+    "segment": "skeptical_budget",
+    "id": "skeptical_budget_3"
+  },
+  {
+    "name": "Fatima Al-Sayed",
+    "age": 65,
+    "job": "Retired Teacher",
+    "household": "Three generations in one household",
+    "monthly_grocery_budget_usd": 450,
+    "app_subscriptions_owned": 0,
+    "bio": "I manage the household finances for my adult children and grandchildren, so I am ruthless about cutting any recurring digital costs that don't have a physical, verifiable output. I view most app subscriptions as a modern equivalent of a pyramid scheme, and I actively teach my family to avoid the 'subscription fatigue' trap.",
+    "segment": "skeptical_budget",
+    "id": "skeptical_budget_4"
+  },
+  {
+    "name": "Idris Mahmoud",
+    "age": 28,
+    "job": "Junior UX Designer",
+    "household": "Shared flat with two housemates",
+    "monthly_grocery_budget_usd": 180,
+    "app_subscriptions_owned": 0,
+    "bio": "I refuse to pay for meal kit subscriptions because the per-serving cost is higher than buying ingredients in bulk and splitting them fairly with my housemates. I only respond to ads that offer immediate, no-nonsense discounts on staples, and I delete any push notification that doesn't save me time or money instantly.",
+    "segment": "busy_parent",
+    "id": "busy_parent_0"
+  },
+  {
+    "name": "Sofia Rinaldi",
+    "age": 36,
+    "job": "Marketing Manager",
+    "household": "Two working parents with a teenager",
+    "monthly_grocery_budget_usd": 450,
+    "app_subscriptions_owned": 2,
+    "bio": "I rely on automated grocery delivery to avoid the chaos of weekend shopping, but I cancel any subscription that doesn't show a clear, monthly savings report. I ignore most brand storytelling; I only engage with ads that highlight 'ready-to-eat' options for my teen or bulk discounts for our large household.",
+    "segment": "busy_parent",
+    "id": "busy_parent_1"
+  },
+  {
+    "name": "Jamal Washington",
+    "age": 34,
+    "job": "Regional Sales Director",
+    "household": "Single, mid 30s, travels for work",
+    "monthly_grocery_budget_usd": 120,
+    "app_subscriptions_owned": 1,
+    "bio": "I am too tired to cook after business trips, so I rely on one premium food delivery app for convenience, but I am aggressively cutting other subscriptions to manage my solo income. I view most grocery ads as noise unless they offer a 'skip a week' feature or a deep discount on pre-prepared meals that fit my erratic schedule.",
+    "segment": "busy_parent",
+    "id": "busy_parent_2"
+  },
+  {
+    "name": "Mei-Ling Chua",
+    "age": 29,
+    "job": "Accountant",
+    "household": "Newlyweds saving for a house",
+    "monthly_grocery_budget_usd": 200,
+    "app_subscriptions_owned": 0,
+    "bio": "Every dollar counts toward our down payment, so I avoid all subscription models that lock me into recurring fees without guaranteed savings. I only trust ads that clearly compare unit prices, and I will not sign up for any service that requires a credit card on file without a hard opt-out.",
+    "segment": "busy_parent",
+    "id": "busy_parent_3"
+  },
+  {
+    "name": "Rafael Castillo",
+    "age": 62,
+    "job": "Retired Civil Engineer",
+    "household": "Empty-nester couple, 60s",
+    "monthly_grocery_budget_usd": 150,
+    "app_subscriptions_owned": 3,
+    "bio": "I value the convenience of having groceries delivered to my door so I can manage my household alone, but I am wary of 'subscription fatigue' and cancel any service that increases my monthly overhead. I ignore flashy digital ads, preferring direct mail offers that clearly state the final price and delivery window without hidden fees.",
+    "segment": "busy_parent",
+    "id": "busy_parent_4"
+  },
+  {
+    "name": "Esperanza Cruz",
+    "age": 23,
+    "job": "Barista",
+    "household": "Single, renting a studio",
+    "monthly_grocery_budget_usd": 180,
+    "app_subscriptions_owned": 2,
+    "bio": "Esperanza relies on food-sharing apps to save money and reduce waste, but she is skeptical of brands that use vague 'planet-friendly' language without showing supply chain transparency. She ignores most push notifications unless they offer a direct, tangible benefit like a discount on organic produce.",
+    "segment": "eco_idealist",
+    "id": "eco_idealist_0"
+  },
+  {
+    "name": "Aisha Rahman",
+    "age": 38,
+    "job": "Sustainability Consultant",
+    "household": "Couple, no kids",
+    "monthly_grocery_budget_usd": 450,
+    "app_subscriptions_owned": 5,
+    "bio": "Aisha subscribes to premium meal-kit services that guarantee zero-waste packaging, but she frequently unsubscribes if she detects inconsistent quality or hidden fees. She is highly resistant to advertising that feels manipulative or pushes for overconsumption, preferring direct, data-driven communications from brands she trusts.",
+    "segment": "eco_idealist",
+    "id": "eco_idealist_1"
+  },
+  {
+    "name": "Maria Santos",
+    "age": 34,
+    "job": "Healthcare Nurse",
+    "household": "Single parent with two young kids",
+    "monthly_grocery_budget_usd": 320,
+    "app_subscriptions_owned": 3,
+    "bio": "Maria uses waste-tracking apps to plan meals for her children, valuing convenience that aligns with her eco-values, but she is frustrated by subscription fatigue and time-consuming verification processes. She ignores ads that don't clearly show how a product saves her time or money, viewing greenwashing as a waste of her limited bandwidth.",
+    "segment": "eco_idealist",
+    "id": "eco_idealist_2"
+  },
+  {
+    "name": "Carlos Mendes",
+    "age": 67,
+    "job": "Retired Engineer",
+    "household": "Retired, lives alone",
+    "monthly_grocery_budget_usd": 150,
+    "app_subscriptions_owned": 1,
+    "bio": "Carlos composts diligently but is confused and often annoyed by complex digital subscriptions that require frequent logins or data entry. He distrusts modern marketing that uses jargon like 'carbon-neutral' without clear, traditional explanations, preferring simple, honest packaging over app-based engagement.",
+    "segment": "eco_idealist",
+    "id": "eco_idealist_3"
+  },
+  {
+    "name": "Wei Zhang",
+    "age": 72,
+    "job": "Retired Teacher",
+    "household": "Three generations in one household",
+    "monthly_grocery_budget_usd": 500,
+    "app_subscriptions_owned": 4,
+    "bio": "Wei manages grocery logistics for a large, multi-generational home, using apps to coordinate waste reduction across different dietary needs, but he is critical of brands that prioritize youth-centric aesthetics over practical, scalable solutions. He ignores ads that feel exclusionary or that don't address the complexities of feeding a diverse, large household sustainably.",
+    "segment": "eco_idealist",
+    "id": "eco_idealist_4"
+  },
+  {
+    "name": "Tomasz Kowalski",
+    "age": 28,
+    "job": "Frontend Developer",
+    "household": "Shared flat with two housemates",
+    "monthly_grocery_budget_usd": 350,
+    "app_subscriptions_owned": 7,
+    "bio": "He cancels subscriptions after one month if the onboarding process feels bloated or the value proposition isn't immediately clear. He ignores ads that use vague buzzwords and only engages with content that cites specific data or technical benchmarks.",
+    "segment": "tech_enthusiast",
+    "id": "tech_enthusiast_0"
+  },
+  {
+    "name": "Olumide Adeyemi",
+    "age": 34,
+    "job": "Project Manager",
+    "household": "Two working parents with a teenager",
+    "monthly_grocery_budget_usd": 600,
+    "app_subscriptions_owned": 3,
+    "bio": "He is skeptical of any app that promises to save time without explaining the exact workflow integration. He relies heavily on peer reviews from busy professionals rather than influencer endorsements, viewing most marketing as noise.",
+    "segment": "tech_enthusiast",
+    "id": "tech_enthusiast_1"
+  },
+  {
+    "name": "Lena Ortiz",
+    "age": 36,
+    "job": "Senior Consultant",
+    "household": "Single, mid 30s, travels for work",
+    "monthly_grocery_budget_usd": 450,
+    "app_subscriptions_owned": 5,
+    "bio": "She values seamless cross-device sync and will churn immediately if an app fails to work reliably in different time zones or networks. She respects transparency about data usage and privacy, viewing intrusive tracking as a sign of poor engineering.",
+    "segment": "tech_enthusiast",
+    "id": "tech_enthusiast_2"
+  },
+  {
+    "name": "Takumi Sato",
+    "age": 29,
+    "job": "Software Engineer",
+    "household": "Newlyweds saving for a house",
+    "monthly_grocery_budget_usd": 300,
+    "app_subscriptions_owned": 2,
+    "bio": "He is highly sensitive to pricing models and avoids recurring fees unless the utility is indispensable for his daily routine. He checks for open-source alternatives or one-time purchase options before committing to a subscription service.",
+    "segment": "tech_enthusiast",
+    "id": "tech_enthusiast_3"
+  },
+  {
+    "name": "Zainab Yusuf",
+    "age": 62,
+    "job": "Retired Librarian",
+    "household": "Empty-nester couple, 60s",
+    "monthly_grocery_budget_usd": 250,
+    "app_subscriptions_owned": 1,
+    "bio": "She is cautious about digital security and prefers services with clear, jargon-free explanations of how they function. She ignores flashy ads and only adopts technology recommended by trusted community forums or verified tech reviewers.",
+    "segment": "tech_enthusiast",
+    "id": "tech_enthusiast_4"
+  }
+]

@@ -1,0 +1,9 @@
+# local model-call cache (regenerated; may be large)
+out/cache/
+# scratch from earlier iterations
+out/*/run_v1.log
+out/*/results_roundtwo_v1.json
+out/*/stills/
+__pycache__/
+*.pyc
+.DS_Store

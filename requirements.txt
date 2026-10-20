@@ -1,0 +1,1 @@
+Pillow>=10.0   # only needed by make_motion.py; the simulation itself is stdlib-only

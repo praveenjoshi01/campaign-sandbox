@@ -1,0 +1,10 @@
+{
+  "title": "HP Victus 15 Thanksgiving campaign",
+  "product_name": "HP Victus 15 with RTX 5050",
+  "scenario": "It is Thanksgiving week 2026 and you are shopping for a gaming laptop. {n} different offers for the same HP laptop reach you by email and social feed. You know HP as a brand. Judge them on how they speak to YOU.",
+  "persona_fields": {
+    "budget_context": "how much they can spend on a laptop this season and what they own now",
+    "knowledge_context": "how much they know about gaming laptop specs and where they research purchases"
+  },
+  "scale": "interest scale: 1=none, 2=slight, 3=moderate (would read more), 4=strong (would seriously consider buying), 5=would buy this week. Use the range and differentiate between the ads. If truly none appeal, click=\"none\"."
+}

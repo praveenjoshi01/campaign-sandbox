@@ -1,0 +1,46 @@
+{
+  "hypothesis": "Outcome-led wording that names a SPECIFIC, verifiable result (a number) converts better than feature-led wording, and better than the same outcome stated vaguely, especially among skeptical, price-sensitive people. Urgency/scarcity wording will backfire with skeptics.",
+  "success_criteria": [
+    {
+      "label": "Numeric outcome beats feature copy",
+      "better": "B2_outcome_number",
+      "worse": "A_feature",
+      "by": 0.3
+    },
+    {
+      "label": "Numeric outcome beats the vague outcome",
+      "better": "B2_outcome_number",
+      "worse": "B_outcome",
+      "by": 0.3
+    },
+    {
+      "label": "Urgency ranks below numeric outcome for skeptical budget shoppers",
+      "better": "B2_outcome_number",
+      "worse": "D_urgency",
+      "by": 0.01,
+      "segment": "skeptical_budget"
+    }
+  ],
+  "variants": {
+    "A_feature": {
+      "label": "Feature-led",
+      "text": "PantryPilot scans your fridge with your phone camera and generates a 5-dinner weekly plan with a missing-items shopping list. Vegetarian, vegan, gluten-free and dairy-free filters included. $9/month."
+    },
+    "B_outcome": {
+      "label": "Vague outcome",
+      "text": "Stop throwing food away. Beta users of PantryPilot report wasting less food after 3 months, because every dinner is planned around what's already in your fridge. Try it free for 14 days, then $9/month."
+    },
+    "B2_outcome_number": {
+      "label": "Numeric outcome",
+      "text": "Stop throwing food away. In our 12-week beta, 312 households estimated they wasted about 31% less food (self-reported survey). Every dinner is planned around what's already in your fridge. Try it free for 14 days, then $9/month."
+    },
+    "C_social": {
+      "label": "Social proof",
+      "text": "Join 312 beta households already planning dinners with PantryPilot. Scan your fridge, get 5 dinners in 30 minutes or less. First 14 days free."
+    },
+    "D_urgency": {
+      "label": "Urgency",
+      "text": "Last chance! Founding-member pricing of $9/month ends tonight. Don't waste another week of groceries - start PantryPilot now before the price goes up!"
+    }
+  }
+}

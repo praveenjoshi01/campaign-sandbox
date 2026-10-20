@@ -1,0 +1,154 @@
+{
+  "nodes": [
+    {
+      "id": "PantryPilot",
+      "type": "product"
+    },
+    {
+      "id": "Price",
+      "type": "price"
+    },
+    {
+      "id": "Free Trial",
+      "type": "feature"
+    },
+    {
+      "id": "Camera Scan",
+      "type": "feature"
+    },
+    {
+      "id": "Dinner Planning",
+      "type": "feature"
+    },
+    {
+      "id": "Shopping List",
+      "type": "feature"
+    },
+    {
+      "id": "Recipe Constraints",
+      "type": "feature"
+    },
+    {
+      "id": "Dietary Filters",
+      "type": "feature"
+    },
+    {
+      "id": "No Ordering",
+      "type": "limitation"
+    },
+    {
+      "id": "No Delivery",
+      "type": "limitation"
+    },
+    {
+      "id": "Beta Users",
+      "type": "audience"
+    },
+    {
+      "id": "Busy Households",
+      "type": "audience"
+    },
+    {
+      "id": "Founders",
+      "type": "claim"
+    },
+    {
+      "id": "Company Age",
+      "type": "claim"
+    },
+    {
+      "id": "No Brand Backing",
+      "type": "limitation"
+    },
+    {
+      "id": "Food Waste Reduction",
+      "type": "claim"
+    },
+    {
+      "id": "Self-Reported Data",
+      "type": "limitation"
+    }
+  ],
+  "edges": [
+    {
+      "src": "PantryPilot",
+      "rel": "has_price",
+      "dst": "Price"
+    },
+    {
+      "src": "PantryPilot",
+      "rel": "includes",
+      "dst": "Free Trial"
+    },
+    {
+      "src": "PantryPilot",
+      "rel": "uses",
+      "dst": "Camera Scan"
+    },
+    {
+      "src": "PantryPilot",
+      "rel": "provides",
+      "dst": "Dinner Planning"
+    },
+    {
+      "src": "PantryPilot",
+      "rel": "provides",
+      "dst": "Shopping List"
+    },
+    {
+      "src": "PantryPilot",
+      "rel": "has_feature",
+      "dst": "Recipe Constraints"
+    },
+    {
+      "src": "PantryPilot",
+      "rel": "has_feature",
+      "dst": "Dietary Filters"
+    },
+    {
+      "src": "PantryPilot",
+      "rel": "has_limitation",
+      "dst": "No Ordering"
+    },
+    {
+      "src": "PantryPilot",
+      "rel": "has_limitation",
+      "dst": "No Delivery"
+    },
+    {
+      "src": "PantryPilot",
+      "rel": "targets",
+      "dst": "Busy Households"
+    },
+    {
+      "src": "PantryPilot",
+      "rel": "tested_on",
+      "dst": "Beta Users"
+    },
+    {
+      "src": "PantryPilot",
+      "rel": "founded_by",
+      "dst": "Founders"
+    },
+    {
+      "src": "PantryPilot",
+      "rel": "has_age",
+      "dst": "Company Age"
+    },
+    {
+      "src": "PantryPilot",
+      "rel": "has_limitation",
+      "dst": "No Brand Backing"
+    },
+    {
+      "src": "Beta Users",
+      "rel": "reported",
+      "dst": "Food Waste Reduction"
+    },
+    {
+      "src": "Food Waste Reduction",
+      "rel": "based_on",
+      "dst": "Self-Reported Data"
+    }
+  ]
+}

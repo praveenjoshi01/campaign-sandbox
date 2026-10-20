@@ -1,0 +1,429 @@
+{
+  "nodes": [
+    {
+      "id": "HP_Victus_15",
+      "type": "product"
+    },
+    {
+      "id": "RTX_5050",
+      "type": "feature"
+    },
+    {
+      "id": "8GB_GDDR7",
+      "type": "feature"
+    },
+    {
+      "id": "80W_GPU",
+      "type": "feature"
+    },
+    {
+      "id": "15.6_FHD_IPS",
+      "type": "feature"
+    },
+    {
+      "id": "144Hz",
+      "type": "feature"
+    },
+    {
+      "id": "Matte_Panel",
+      "type": "feature"
+    },
+    {
+      "id": "64%_sRGB",
+      "type": "limitation"
+    },
+    {
+      "id": "57%_sRGB",
+      "type": "limitation"
+    },
+    {
+      "id": "300_nits",
+      "type": "limitation"
+    },
+    {
+      "id": "176_FPS_CS2",
+      "type": "claim"
+    },
+    {
+      "id": "Upgradeable_RAM",
+      "type": "feature"
+    },
+    {
+      "id": "Upgradeable_SSD",
+      "type": "feature"
+    },
+    {
+      "id": "i5-13420H",
+      "type": "feature"
+    },
+    {
+      "id": "Ryzen_5_240",
+      "type": "feature"
+    },
+    {
+      "id": "100C_Temp",
+      "type": "limitation"
+    },
+    {
+      "id": "Outdated_CPU",
+      "type": "limitation"
+    },
+    {
+      "id": "Plastic_Case",
+      "type": "limitation"
+    },
+    {
+      "id": "2.4kg_Weight",
+      "type": "feature"
+    },
+    {
+      "id": "200W_Adapter",
+      "type": "feature"
+    },
+    {
+      "id": "HDMI_2.1",
+      "type": "feature"
+    },
+    {
+      "id": "USB_C_DP1.4",
+      "type": "feature"
+    },
+    {
+      "id": "No_USB4",
+      "type": "limitation"
+    },
+    {
+      "id": "No_SD_Reader",
+      "type": "limitation"
+    },
+    {
+      "id": "Cramped_Arrows",
+      "type": "limitation"
+    },
+    {
+      "id": "WiFi_6",
+      "type": "feature"
+    },
+    {
+      "id": "12mo_Warranty_DE",
+      "type": "feature"
+    },
+    {
+      "id": "5h44m_Battery",
+      "type": "limitation"
+    },
+    {
+      "id": "4h27m_Battery_5060",
+      "type": "limitation"
+    },
+    {
+      "id": "No_OLED",
+      "type": "limitation"
+    },
+    {
+      "id": "No_240Hz",
+      "type": "limitation"
+    },
+    {
+      "id": "No_HighWatt_GPU",
+      "type": "limitation"
+    },
+    {
+      "id": "No_Metal_Chassis",
+      "type": "limitation"
+    },
+    {
+      "id": "HP_OMEN",
+      "type": "product"
+    },
+    {
+      "id": "1299_USD",
+      "type": "price"
+    },
+    {
+      "id": "699_USD",
+      "type": "price"
+    },
+    {
+      "id": "1200_USD",
+      "type": "price"
+    },
+    {
+      "id": "799_USD",
+      "type": "claim"
+    },
+    {
+      "id": "38%_Price_Increase",
+      "type": "claim"
+    },
+    {
+      "id": "Students",
+      "type": "audience"
+    },
+    {
+      "id": "Parents",
+      "type": "audience"
+    },
+    {
+      "id": "Competitive_Players",
+      "type": "audience"
+    },
+    {
+      "id": "Hybrid_Users",
+      "type": "audience"
+    },
+    {
+      "id": "Thanksgiving_2026",
+      "type": "claim"
+    },
+    {
+      "id": "Cyber_Monday_2026",
+      "type": "claim"
+    }
+  ],
+  "edges": [
+    {
+      "src": "HP_Victus_15",
+      "rel": "has_feature",
+      "dst": "RTX_5050"
+    },
+    {
+      "src": "RTX_5050",
+      "rel": "has_spec",
+      "dst": "8GB_GDDR7"
+    },
+    {
+      "src": "RTX_5050",
+      "rel": "has_spec",
+      "dst": "80W_GPU"
+    },
+    {
+      "src": "HP_Victus_15",
+      "rel": "has_feature",
+      "dst": "15.6_FHD_IPS"
+    },
+    {
+      "src": "15.6_FHD_IPS",
+      "rel": "has_spec",
+      "dst": "144Hz"
+    },
+    {
+      "src": "15.6_FHD_IPS",
+      "rel": "has_spec",
+      "dst": "Matte_Panel"
+    },
+    {
+      "src": "15.6_FHD_IPS",
+      "rel": "has_limitation",
+      "dst": "64%_sRGB"
+    },
+    {
+      "src": "15.6_FHD_IPS",
+      "rel": "has_limitation",
+      "dst": "57%_sRGB"
+    },
+    {
+      "src": "15.6_FHD_IPS",
+      "rel": "has_limitation",
+      "dst": "300_nits"
+    },
+    {
+      "src": "RTX_5050",
+      "rel": "supports_claim",
+      "dst": "176_FPS_CS2"
+    },
+    {
+      "src": "HP_Victus_15",
+      "rel": "has_feature",
+      "dst": "Upgradeable_RAM"
+    },
+    {
+      "src": "HP_Victus_15",
+      "rel": "has_feature",
+      "dst": "Upgradeable_SSD"
+    },
+    {
+      "src": "HP_Victus_15",
+      "rel": "has_variant",
+      "dst": "i5-13420H"
+    },
+    {
+      "src": "HP_Victus_15",
+      "rel": "has_variant",
+      "dst": "Ryzen_5_240"
+    },
+    {
+      "src": "Ryzen_5_240",
+      "rel": "has_limitation",
+      "dst": "100C_Temp"
+    },
+    {
+      "src": "i5-13420H",
+      "rel": "has_limitation",
+      "dst": "Outdated_CPU"
+    },
+    {
+      "src": "HP_Victus_15",
+      "rel": "has_limitation",
+      "dst": "Plastic_Case"
+    },
+    {
+      "src": "HP_Victus_15",
+      "rel": "has_spec",
+      "dst": "2.4kg_Weight"
+    },
+    {
+      "src": "HP_Victus_15",
+      "rel": "has_spec",
+      "dst": "200W_Adapter"
+    },
+    {
+      "src": "HP_Victus_15",
+      "rel": "has_feature",
+      "dst": "HDMI_2.1"
+    },
+    {
+      "src": "HP_Victus_15",
+      "rel": "has_feature",
+      "dst": "USB_C_DP1.4"
+    },
+    {
+      "src": "HP_Victus_15",
+      "rel": "has_limitation",
+      "dst": "No_USB4"
+    },
+    {
+      "src": "HP_Victus_15",
+      "rel": "has_limitation",
+      "dst": "No_SD_Reader"
+    },
+    {
+      "src": "HP_Victus_15",
+      "rel": "has_limitation",
+      "dst": "Cramped_Arrows"
+    },
+    {
+      "src": "HP_Victus_15",
+      "rel": "has_feature",
+      "dst": "WiFi_6"
+    },
+    {
+      "src": "HP_Victus_15",
+      "rel": "has_feature",
+      "dst": "12mo_Warranty_DE"
+    },
+    {
+      "src": "HP_Victus_15",
+      "rel": "has_limitation",
+      "dst": "5h44m_Battery"
+    },
+    {
+      "src": "HP_Victus_15",
+      "rel": "has_limitation",
+      "dst": "4h27m_Battery_5060"
+    },
+    {
+      "src": "HP_Victus_15",
+      "rel": "lacks_feature",
+      "dst": "No_OLED"
+    },
+    {
+      "src": "HP_Victus_15",
+      "rel": "lacks_feature",
+      "dst": "No_240Hz"
+    },
+    {
+      "src": "HP_Victus_15",
+      "rel": "lacks_feature",
+      "dst": "No_HighWatt_GPU"
+    },
+    {
+      "src": "HP_Victus_15",
+      "rel": "lacks_feature",
+      "dst": "No_Metal_Chassis"
+    },
+    {
+      "src": "HP_OMEN",
+      "rel": "has_price",
+      "dst": "1299_USD"
+    },
+    {
+      "src": "HP_Victus_15",
+      "rel": "has_price",
+      "dst": "699_USD"
+    },
+    {
+      "src": "HP_Victus_15",
+      "rel": "has_price",
+      "dst": "1200_USD"
+    },
+    {
+      "src": "HP_Victus_15",
+      "rel": "has_assumed_price",
+      "dst": "799_USD"
+    },
+    {
+      "src": "799_USD",
+      "rel": "valid_for",
+      "dst": "Thanksgiving_2026"
+    },
+    {
+      "src": "799_USD",
+      "rel": "valid_for",
+      "dst": "Cyber_Monday_2026"
+    },
+    {
+      "src": "Market_Context",
+      "rel": "reports",
+      "dst": "38%_Price_Increase"
+    },
+    {
+      "src": "HP_Victus_15",
+      "rel": "targets",
+      "dst": "Students"
+    },
+    {
+      "src": "HP_Victus_15",
+      "rel": "targets",
+      "dst": "Parents"
+    },
+    {
+      "src": "HP_Victus_15",
+      "rel": "targets",
+      "dst": "Competitive_Players"
+    },
+    {
+      "src": "HP_Victus_15",
+      "rel": "targets",
+      "dst": "Hybrid_Users"
+    }
+  ],
+  "facts": [
+    "The HP Victus 15 features an NVIDIA GeForce RTX 5050 Laptop GPU with 8 GB GDDR7 video memory and an 80 W power limit.",
+    "The display is a 15.6-inch Full HD (1920 x 1080) IPS panel with a 144 Hz refresh rate and a matte finish.",
+    "Color coverage is limited to approximately 64% sRGB in the Notebookcheck unit and 57% in the LaptopMedia unit.",
+    "Screen brightness is approximately 300 nits.",
+    "LaptopMedia measured an average of 176 FPS in Counter-Strike 2 at 1080p Very High settings on the RTX 5050 unit.",
+    "The laptop supports upgrades via two SO-DIMM DDR5 RAM slots and two M.2 SSD slots.",
+    "The Notebookcheck unit shipped with 24 GB RAM and a 512 GB SSD, leaving one RAM slot and one SSD slot free.",
+    "Processor options include the Intel Core i5-13420H (Notebookcheck) and AMD Ryzen 5 240 (LaptopMedia).",
+    "The AMD Ryzen 5 240 processor can reach temperatures up to 100 C under sustained load.",
+    "Notebookcheck described the Intel Core i5-13420H as somewhat outdated.",
+    "The chassis is made of plastic that can rattle in places.",
+    "The laptop weighs approximately 2.4 kg (5.2 lb) and uses a 200 W power adapter.",
+    "Ports include HDMI 2.1, USB-C with DisplayPort 1.4 and power delivery, two USB-A 3.0, RJ45 Ethernet, and an audio jack.",
+    "The laptop lacks USB4 and an SD card reader.",
+    "The keyboard includes a full numpad but has cramped half-height arrow keys.",
+    "The Notebookcheck unit is equipped with Wi-Fi 6 (Realtek RTL8852BE).",
+    "Warranty is 12 months in Germany; US warranty terms are not confirmed.",
+    "Battery life is approximately 5 hours 44 minutes in LaptopMedia's test.",
+    "A 2025 RTX 5060 Victus 15 review measured a battery life of 4 hours 27 minutes.",
+    "The HP Victus 15 does not feature an OLED screen, a 240 Hz panel, a high-wattage RTX 5060 or 5070 GPU, or a metal chassis.",
+    "HP's premium OMEN gaming line starts at approximately $1,299.",
+    "The street price for the Victus 15 with RTX 5050 ranges from approximately $699 to $1,200.",
+    "Gaming laptops are reported to be approximately 38% more expensive in early Black Friday 2026 coverage compared to Black Friday 2025.",
+    "The assumed Thanksgiving 2026 campaign price is $799 for the Victus 15 with RTX 5050.",
+    "The assumed offer period is from Thursday 26 Nov 2026 to Monday 30 Nov 2026.",
+    "No claims are made regarding shipping speed, stock levels, financing, free games, or trade-in value."
+  ]
+}

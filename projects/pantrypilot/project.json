@@ -1,0 +1,9 @@
+{
+  "title": "PantryPilot wording test",
+  "product_name": "PantryPilot",
+  "scenario": "{n} ads for the same unfamiliar app appear in your feed. Judge them on how they speak to YOU.",
+  "persona_fields": {
+    "budget_context": "monthly grocery budget in USD and how many paid app subscriptions they already have"
+  },
+  "scale": "interest scale: 1=none, 2=slight, 3=moderate (would read more), 4=strong (would try it), 5=would sign up now. Use the range and differentiate between the ads. If truly none appeal, click=\"none\"."
+}

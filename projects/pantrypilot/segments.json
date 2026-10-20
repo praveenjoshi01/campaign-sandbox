@@ -1,0 +1,50 @@
+[
+  {
+    "id": "skeptical_budget",
+    "name": "Skeptical budget",
+    "description": "price-sensitive, distrusts ads and subscriptions, has been burned by apps that auto-renew",
+    "situations": [
+      "single, early 20s, renting a studio",
+      "retired, lives alone",
+      "shared flat with two housemates",
+      "single parent with two young kids",
+      "couple with no kids, late 30s"
+    ]
+  },
+  {
+    "id": "busy_parent",
+    "name": "Busy parent",
+    "description": "time-poor parent of young kids, shops weekly, cares about speed and not wasting money",
+    "situations": [
+      "two working parents with a teenager",
+      "single parent with two young kids",
+      "three generations in one household",
+      "newlyweds expecting their first child",
+      "couple with no kids, late 30s"
+    ]
+  },
+  {
+    "id": "eco_idealist",
+    "name": "Eco idealist",
+    "description": "cares about food waste and sustainability, willing to pay for aligned products but dislikes greenwashing",
+    "situations": [
+      "shared flat with two housemates",
+      "single, mid 30s, travels for work",
+      "empty-nester couple, 60s",
+      "couple with no kids, late 30s",
+      "retired, lives alone"
+    ]
+  },
+  {
+    "id": "tech_enthusiast",
+    "name": "Tech enthusiast",
+    "description": "early adopter who tries new apps, but judges them on whether the claims are specific and credible",
+    "situations": [
+      "single, mid 30s, travels for work",
+      "newlyweds saving for a house",
+      "single, early 20s, renting a studio",
+      "shared flat with two housemates",
+      "two working parents with a teenager"
+    ]
+  }
+]

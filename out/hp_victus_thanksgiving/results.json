@@ -1,0 +1,846 @@
+{
+  "round1": {
+    "student_budget_gamer_0": {
+      "ranking": [
+        "E_honest_tradeoff",
+        "C_upgradable",
+        "B_proof_number",
+        "D_gift",
+        "A_spec_sheet",
+        "F_urgency"
+      ],
+      "click": "E_honest_tradeoff",
+      "interest": {
+        "C_upgradable": 2,
+        "F_urgency": 1,
+        "B_proof_number": 3,
+        "A_spec_sheet": 2,
+        "E_honest_tradeoff": 4,
+        "D_gift": 2
+      },
+      "reasoning": "Ad 5 is the only one that respects my intelligence by admitting the plastic build quality while explaining why the money went into the RTX 5050, which is what I actually care about for performance; Ad 1 is also decent for highlighting upgradeability, but Ad 5's honesty about the 'skipping premium finish' aligns with my student budget mindset. I would ignore the rest because Ad 2 is annoying spam, Ad 4 is a boring spec sheet I can't parse, Ad 3 sounds like a lab test that doesn't match my real-world usage, and Ad 6 is too vague and generic.",
+      "objection": "The ad doesn't mention a student discount or trade-in value for my old Chromebook, so I'm not sure if $799 is actually the best I can get or if I'm missing out on saving money through HP's education portal."
+    },
+    "student_budget_gamer_1": {
+      "ranking": [
+        "E_honest_tradeoff",
+        "C_upgradable",
+        "D_gift",
+        "A_spec_sheet",
+        "B_proof_number",
+        "F_urgency"
+      ],
+      "click": "E_honest_tradeoff",
+      "interest": {
+        "E_honest_tradeoff": 4,
+        "B_proof_number": 2,
+        "D_gift": 2,
+        "C_upgradable": 3,
+        "A_spec_sheet": 1,
+        "F_urgency": 1
+      },
+      "reasoning": "I'm completely turned off by the urgency tactics in Ad 6 and the irrelevant FPS stat in Ad 2, but Ad 1 is the only one that respects my intelligence by admitting the chassis is plastic and prioritizing the GPU performance I actually need. Ad 4 is also decent for mentioning upgrades, but Ad 1's honesty about the 'modest' screen and lack of premium finish aligns better with my budget constraints and my desire to avoid marketing fluff.",
+      "objection": "The ad admits the body is plastic and the screen colors are modest, but it doesn't address thermal throttling or battery life, which are my biggest concerns for a student commuting to campus and someone who has been burned by overheating laptops before."
+    },
+    "student_budget_gamer_2": {
+      "ranking": [
+        "E_honest_tradeoff",
+        "C_upgradable",
+        "D_gift",
+        "B_proof_number",
+        "A_spec_sheet",
+        "F_urgency"
+      ],
+      "click": "E_honest_tradeoff",
+      "interest": {
+        "A_spec_sheet": 2,
+        "B_proof_number": 3,
+        "D_gift": 3,
+        "E_honest_tradeoff": 5,
+        "C_upgradable": 4,
+        "F_urgency": 1
+      },
+      "reasoning": "I\u2019m clicking Ad 4 because it\u2019s the only one that admits the chassis is plastic and doesn\u2019t try to hide the mediocre screen colors, which builds the trust I need after seeing so many fake 'premium' ads. Ad 5 is a close second because it nails my fear of obsolescence by highlighting the upgrade slots, but Ad 4\u2019s honesty about the trade-offs (skipping premium finish for performance) feels more real to a budget-conscious gamer like me.",
+      "objection": "Even if the RAM and SSD are upgradeable, I\u2019m worried the AMD Ryzen 5 240 processor will throttle and hit 100\u00b0C under load, making the 'serious performance' claim useless during long gaming sessions."
+    },
+    "student_budget_gamer_3": {
+      "ranking": [
+        "E_honest_tradeoff",
+        "D_gift",
+        "A_spec_sheet",
+        "C_upgradable",
+        "B_proof_number",
+        "F_urgency"
+      ],
+      "click": "E_honest_tradeoff",
+      "interest": {
+        "C_upgradable": 2,
+        "F_urgency": 1,
+        "D_gift": 3,
+        "A_spec_sheet": 2,
+        "E_honest_tradeoff": 4,
+        "B_proof_number": 2
+      },
+      "reasoning": "Ad 5 is the only one that respects my intelligence by admitting the plastic build and poor color accuracy, which aligns with my need for a transparent, non-pretentious tool that prioritizes performance over aesthetics. The others are either too generic, push 'gamer' clich\u00e9s I find pretentious, or omit the critical caveat that the screen is bad for my editing work, making me distrust the omission.",
+      "objection": "The ad admits the screen colors are modest, which is a dealbreaker for my color-accurate editing needs, and I need to verify if the 300-nit brightness is enough for my library environment or if I'm just buying a worse version of my current laptop."
+    },
+    "student_budget_gamer_4": {
+      "ranking": [
+        "E_honest_tradeoff",
+        "C_upgradable",
+        "A_spec_sheet",
+        "D_gift",
+        "B_proof_number",
+        "F_urgency"
+      ],
+      "click": "E_honest_tradeoff",
+      "interest": {
+        "C_upgradable": 3,
+        "D_gift": 2,
+        "A_spec_sheet": 3,
+        "F_urgency": 1,
+        "E_honest_tradeoff": 4,
+        "B_proof_number": 3
+      },
+      "reasoning": "Ad 5 is the only one that respects my intelligence by admitting the plastic build quality, which saves me from the 'long-term ownership' complaints I read on Reddit about cheap laptops breaking. Ad 1 is close behind because it clearly explains the upgrade path, which is crucial for someone saving slowly, but Ad 5's honesty about the trade-offs wins my trust.",
+      "objection": "I need to verify if the $799 price includes a valid US warranty or if I'm stuck with the 12-month Germany standard, and whether the plastic rattle mentioned is a dealbreaker for daily use."
+    },
+    "parent_gift_buyer_0": {
+      "ranking": [
+        "E_honest_tradeoff",
+        "C_upgradable",
+        "D_gift",
+        "A_spec_sheet",
+        "F_urgency",
+        "B_proof_number"
+      ],
+      "click": "E_honest_tradeoff",
+      "interest": {
+        "C_upgradable": 4,
+        "F_urgency": 1,
+        "A_spec_sheet": 3,
+        "D_gift": 3,
+        "E_honest_tradeoff": 5,
+        "B_proof_number": 1
+      },
+      "reasoning": "Ad 5 is the only one that respects my intelligence by admitting the plastic build quality instead of hiding it, which aligns with my need for durability and value over flashy marketing. Ad 1 is a close second because it highlights the upgradeability, which is crucial for a laptop I want my son to use for years without me having to replace it.",
+      "objection": "I'm worried the 'plastic body' comment means it will break easily in my son's backpack, and the 100C temps mentioned in reviews suggest it might overheat or shut down during long gaming sessions."
+    },
+    "parent_gift_buyer_1": {
+      "ranking": [
+        "D_gift",
+        "E_honest_tradeoff",
+        "C_upgradable",
+        "B_proof_number",
+        "A_spec_sheet",
+        "F_urgency"
+      ],
+      "click": "D_gift",
+      "interest": {
+        "E_honest_tradeoff": 3,
+        "B_proof_number": 2,
+        "A_spec_sheet": 2,
+        "F_urgency": 1,
+        "D_gift": 4,
+        "C_upgradable": 3
+      },
+      "reasoning": "I appreciate that Ad 1 is honest about the plastic build, which aligns with my budget constraints and avoids the 'premium finish' trap, but it misses the crucial 'school' aspect I need to balance for my kids. Ad 5 is the only one that explicitly addresses the dual-purpose nature of the gift (school + games), which is exactly how I frame the purchase to justify it to my spouse and ensure it doesn't feel like a 'just for gaming' splurge.",
+      "objection": "While the 'school and game night' pitch is perfect for my family dynamic, I need to verify that the content filters and parental controls are robust enough to keep the teenagers on task during school hours, not just for gaming."
+    },
+    "parent_gift_buyer_2": {
+      "ranking": [
+        "D_gift",
+        "C_upgradable",
+        "E_honest_tradeoff",
+        "A_spec_sheet",
+        "B_proof_number",
+        "F_urgency"
+      ],
+      "click": "D_gift",
+      "interest": {
+        "D_gift": 4,
+        "C_upgradable": 2,
+        "A_spec_sheet": 1,
+        "E_honest_tradeoff": 2,
+        "F_urgency": 1,
+        "B_proof_number": 1
+      },
+      "reasoning": "I don't care about the technical specs or the plastic build quality mentioned in the honest ad; I just need to know it works for my son's games and school without breaking my $500 budget or hiding fees. Ad 1 is the only one that speaks to my life (school/game night) without using confusing jargon like 'frames per second' or 'RTX 5050' that makes me feel dumb.",
+      "objection": "The $799 price tag is nearly double my weekly budget, and I need to see proof that they offer 'Buy Now, Pay Later' options or extended warranties without hidden monthly fees before I commit."
+    },
+    "parent_gift_buyer_3": {
+      "ranking": [
+        "E_honest_tradeoff",
+        "C_upgradable",
+        "B_proof_number",
+        "D_gift",
+        "A_spec_sheet",
+        "F_urgency"
+      ],
+      "click": "E_honest_tradeoff",
+      "interest": {
+        "B_proof_number": 3,
+        "E_honest_tradeoff": 4,
+        "C_upgradable": 4,
+        "A_spec_sheet": 2,
+        "D_gift": 3,
+        "F_urgency": 1
+      },
+      "reasoning": "I appreciate Ad 3's focus on longevity and upgradeability, which aligns with my desire to avoid repeat purchases, but Ad 2\u2019s honest admission of the 'plastic body' and 'modest screen' feels more trustworthy and respectful of my intelligence than the others. The combination of transparency about limitations and a clear explanation of why the price is lower makes Ad 2 the most compelling for a skeptical buyer like me.",
+      "objection": "I am concerned that the 'plastic body' and 'modest screen colors' might indicate poor build quality or short lifespan, despite the upgradeable components, and I need assurance that the chassis is durable enough to last several years for my grandson."
+    },
+    "parent_gift_buyer_4": {
+      "ranking": [
+        "D_gift",
+        "A_spec_sheet",
+        "C_upgradable",
+        "E_honest_tradeoff",
+        "B_proof_number",
+        "F_urgency"
+      ],
+      "click": "D_gift",
+      "interest": {
+        "E_honest_tradeoff": 2,
+        "A_spec_sheet": 3,
+        "D_gift": 4,
+        "C_upgradable": 3,
+        "B_proof_number": 1,
+        "F_urgency": 1
+      },
+      "reasoning": "Ad 3 is the only one that speaks to my priorities as a parent, framing the purchase as a practical tool for school and supervised play rather than a performance metric. The others either bore me with specs I don't understand, annoy me with aggressive sales tactics, or highlight flaws like the plastic build that make me doubt the quality.",
+      "objection": "The ad mentions 'game night' but fails to explicitly address how I can manage screen time or ensure the content is age-appropriate for my 15-year-old, which is my primary concern over raw specs."
+    },
+    "competitive_enthusiast_0": {
+      "ranking": [
+        "B_proof_number",
+        "E_honest_tradeoff",
+        "C_upgradable",
+        "D_gift",
+        "A_spec_sheet",
+        "F_urgency"
+      ],
+      "click": null,
+      "interest": {
+        "E_honest_tradeoff": 2,
+        "F_urgency": 1,
+        "D_gift": 1,
+        "A_spec_sheet": 1,
+        "C_upgradable": 2,
+        "B_proof_number": 3
+      },
+      "reasoning": "Ad 6 is the only one that attempts to provide hard data, but citing a raw FPS number without context on thermals or frame time consistency is a trap; I need to see if that 176 FPS holds up after 10 minutes of ranked play or if the 80W TDP causes thermal throttling. The rest of the ads are marketing fluff or irrelevant lifestyle content that I actively ignore, with Ad 1 being the only other that even acknowledges the trade-offs, though it's too vague on the performance side.",
+      "objection": "Ad 6 cites 176 FPS but fails to mention thermal throttling or frame time consistency, which are the critical metrics for competitive play; without proof it doesn't overheat within 10 minutes, the raw FPS number is meaningless to me."
+    },
+    "competitive_enthusiast_1": {
+      "ranking": [
+        "E_honest_tradeoff",
+        "C_upgradable",
+        "B_proof_number",
+        "A_spec_sheet",
+        "D_gift",
+        "F_urgency"
+      ],
+      "click": "E_honest_tradeoff",
+      "interest": {
+        "B_proof_number": 3,
+        "A_spec_sheet": 2,
+        "D_gift": 1,
+        "C_upgradable": 3,
+        "F_urgency": 1,
+        "E_honest_tradeoff": 4
+      },
+      "reasoning": "I\u2019m immediately put off by the generic 'gift' and 'hurry' tactics in Ads 3 and 5, which feel like they\u2019re talking to a student or an impulse buyer, not a freelancer who needs to know about thermals and build quality. Ad 6 is the only one that respects my intelligence by admitting the plastic chassis and mediocre screen, which signals they\u2019re prioritizing the RTX 5050 performance I need over flimsy aesthetics, making it the only viable option despite my known concerns about the 80W power limit.",
+      "objection": "The ad admits to a plastic body that can rattle, which violates my requirement for durable daily carry use, and I\u2019m still skeptical if the 80W power limit on the RTX 5050 will throttle during simultaneous OBS encoding and gameplay."
+    },
+    "competitive_enthusiast_2": {
+      "ranking": [
+        "B_proof_number",
+        "C_upgradable",
+        "D_gift",
+        "E_honest_tradeoff",
+        "F_urgency",
+        "A_spec_sheet"
+      ],
+      "click": "B_proof_number",
+      "interest": {
+        "F_urgency": 1,
+        "D_gift": 2,
+        "C_upgradable": 3,
+        "A_spec_sheet": 2,
+        "E_honest_tradeoff": 2,
+        "B_proof_number": 3
+      },
+      "reasoning": "Ad 6 is the only one that speaks my language by citing a specific, verifiable performance metric (176 FPS in CS2) rather than relying on hollow marketing fluff or trying to sell me a $800 plastic toy as a premium device. As a PC builder who already owns an RTX 3070 desktop, I don't need a 'gift' or an 'upgrade path' for a secondary device; I need to know if the 80W TGP is throttling the chip into the ground, and Ad 6 is the only one that attempts to quantify that reality, even if the chassis is likely garbage.",
+      "objection": "The 176 FPS figure is likely achieved with aggressive power limits or a specific optimization that doesn't reflect sustained 1080p gaming in modern AAA titles, and the 'Very High' setting in CS2 is still a competitive/eSports benchmark that ignores the thermal throttling I know this plastic chassis will suffer under sustained load."
+    },
+    "competitive_enthusiast_3": {
+      "ranking": [
+        "E_honest_tradeoff",
+        "C_upgradable",
+        "B_proof_number",
+        "D_gift",
+        "A_spec_sheet",
+        "F_urgency"
+      ],
+      "click": "E_honest_tradeoff",
+      "interest": {
+        "B_proof_number": 2,
+        "E_honest_tradeoff": 4,
+        "C_upgradable": 3,
+        "A_spec_sheet": 1,
+        "D_gift": 2,
+        "F_urgency": 1
+      },
+      "reasoning": "Ad 2 is the only one that respects my intelligence by admitting the plastic build and poor screen quality, which saves me from the 'buyer's remorse' I see on Reddit; Ad 3 is a close second for focusing on the upgradeability I need to maximize the $799 price point. The rest are either irrelevant specs (Ad 1), boring copy-paste (Ad 4), generic fluff (Ad 5), or annoying sales pressure (Ad 6) that I\u2019d immediately delete.",
+      "objection": "The 200W power brick and 2.4kg weight mentioned in the specs make it terrible for my commute to the LAN center, and the 5-hour battery life means I'm still tethered to a wall outlet most of the time."
+    },
+    "competitive_enthusiast_4": {
+      "ranking": [
+        "E_honest_tradeoff",
+        "C_upgradable",
+        "A_spec_sheet",
+        "D_gift",
+        "B_proof_number",
+        "F_urgency"
+      ],
+      "click": "E_honest_tradeoff",
+      "interest": {
+        "B_proof_number": 2,
+        "A_spec_sheet": 3,
+        "E_honest_tradeoff": 5,
+        "F_urgency": 1,
+        "C_upgradable": 3,
+        "D_gift": 2
+      },
+      "reasoning": "Ad 3 is the only one that respects my intelligence by acknowledging the plastic chassis and modest screen as trade-offs for performance, which aligns with my preference for honest, straightforward transactions over aggressive sales tactics. The other ads either rely on generic specs, misleading hype about frames per second without context, or the 'hurry up' urgency that makes me immediately suspicious of hidden fees or poor after-sales support.",
+      "objection": "While I appreciate the honesty about the build quality, I need confirmation that the US warranty terms are robust enough to justify the risk of a plastic chassis rattling under sustained travel loads, as the 12-month German standard doesn't necessarily translate to reliable support here."
+    },
+    "work_and_play_hybrid_0": {
+      "ranking": [
+        "E_honest_tradeoff",
+        "B_proof_number",
+        "C_upgradable",
+        "A_spec_sheet",
+        "D_gift",
+        "F_urgency"
+      ],
+      "click": null,
+      "interest": {
+        "C_upgradable": 1,
+        "B_proof_number": 2,
+        "A_spec_sheet": 1,
+        "F_urgency": 1,
+        "D_gift": 1,
+        "E_honest_tradeoff": 2
+      },
+      "reasoning": "Ad 6 is the only one that respects my intelligence by admitting the plastic chassis and poor color gamut, which are dealbreakers for my 4K editing workflow, whereas the others waste my time with irrelevant 'upgradeability' or aggressive urgency. I don't care about 'buying a part later' or 'game night' vibes; I care about thermals and color accuracy, and none of these ads address the 100C thermal throttling or the 64% sRGB limitation that makes this laptop useless for my primary job.",
+      "objection": "The ad admits to 'modest screen colors' (likely the 64% sRGB), which is completely unacceptable for a professional video editor who requires high color accuracy, and it ignores the known thermal throttling issues of the AMD Ryzen 5 240 under sustained load."
+    },
+    "work_and_play_hybrid_1": {
+      "ranking": [
+        "E_honest_tradeoff",
+        "C_upgradable",
+        "D_gift",
+        "A_spec_sheet",
+        "B_proof_number",
+        "F_urgency"
+      ],
+      "click": "E_honest_tradeoff",
+      "interest": {
+        "A_spec_sheet": 2,
+        "D_gift": 2,
+        "B_proof_number": 1,
+        "C_upgradable": 3,
+        "F_urgency": 1,
+        "E_honest_tradeoff": 5
+      },
+      "reasoning": "Ad 6 is the only one that respects my intelligence by admitting the plastic build and modest screen, which aligns with my preference for minimalism and value over flashy marketing; Ad 4 is a close second because it highlights the upgradeability I need, but it feels too generic. I\u2019m ignoring the 'work-and-play' fluff in Ad 2 and the irrelevant FPS flexing in Ad 3, as I care more about keyboard feel and quiet operation than raw gaming metrics I won't use.",
+      "objection": "The ad admits the chassis rattles and the screen is bad, but doesn't mention thermal noise or fan behavior, which is my biggest concern for a home office environment."
+    },
+    "work_and_play_hybrid_2": {
+      "ranking": [
+        "E_honest_tradeoff",
+        "D_gift",
+        "C_upgradable",
+        "A_spec_sheet",
+        "B_proof_number",
+        "F_urgency"
+      ],
+      "click": "E_honest_tradeoff",
+      "interest": {
+        "E_honest_tradeoff": 4,
+        "B_proof_number": 1,
+        "D_gift": 2,
+        "A_spec_sheet": 1,
+        "C_upgradable": 3,
+        "F_urgency": 1
+      },
+      "reasoning": "I\u2019m looking for a laptop that won\u2019t give me back pain and lasts through a shift, not one that just talks about frame rates I don\u2019t care about. Ad 1 is the only one that admits the plastic build and focuses on the upgradeability that helps me manage my strict budget, which feels like the only honest option here.",
+      "objection": "The ad admits it\u2019s plastic and doesn't mention the weight (which is 5.2 lbs, way over my 4 lb limit), so I\u2019m worried it will still be too heavy to carry without hurting my back."
+    },
+    "work_and_play_hybrid_3": {
+      "ranking": [
+        "E_honest_tradeoff",
+        "D_gift",
+        "C_upgradable",
+        "A_spec_sheet",
+        "F_urgency",
+        "B_proof_number"
+      ],
+      "click": "E_honest_tradeoff",
+      "interest": {
+        "A_spec_sheet": 1,
+        "C_upgradable": 2,
+        "D_gift": 3,
+        "F_urgency": 1,
+        "B_proof_number": 1,
+        "E_honest_tradeoff": 4
+      },
+      "reasoning": "I am completely turned off by the 'gaming' jargon and aggressive sales tactics in most of these emails; as a teacher, I need to know if this machine is reliable and easy to fix, not how many frames per second it renders. Ad 6 is the only one that speaks my language by admitting the plastic build quality, which feels honest, while Ad 3\u2019s 'school and game night' angle is the only other one that respects my actual life, even if it\u2019s still too technical.",
+      "objection": "I need to know if the plastic body means it will crack easily like my old laptop or if it is sturdy enough to survive being thrown in a bag with a stack of graded papers, and whether the 'upgradeable' parts are something a local repair shop can actually handle or if I\u2019ll be stuck with a voided warranty."
+    },
+    "work_and_play_hybrid_4": {
+      "ranking": [
+        "C_upgradable",
+        "E_honest_tradeoff",
+        "A_spec_sheet",
+        "D_gift",
+        "B_proof_number",
+        "F_urgency"
+      ],
+      "click": null,
+      "interest": {
+        "E_honest_tradeoff": 1,
+        "B_proof_number": 1,
+        "D_gift": 1,
+        "F_urgency": 1,
+        "C_upgradable": 1,
+        "A_spec_sheet": 1
+      },
+      "reasoning": "I am immediately repelled by every single ad because they all scream 'gaming' and 'toy'\u2014the exact things I am trying to avoid. None of them mention the critical port selection, battery life, or professional aesthetic I need, so they fail to even register as relevant to my specific problem of needing a single, quiet, premium-feeling device for travel.",
+      "objection": "The device is explicitly marketed as a 'gaming laptop' with a plastic, rattling chassis and a 2.4kg weight, which is the opposite of the professional, lightweight, premium build quality I require for client meetings."
+    }
+  },
+  "round2": {
+    "student_budget_gamer_0": {
+      "ranking": [
+        "E_honest_tradeoff",
+        "C_upgradable",
+        "B_proof_number",
+        "D_gift",
+        "A_spec_sheet",
+        "F_urgency"
+      ],
+      "click": "E_honest_tradeoff",
+      "interest": {
+        "C_upgradable": 2,
+        "F_urgency": 1,
+        "B_proof_number": 2,
+        "A_spec_sheet": 1,
+        "E_honest_tradeoff": 4,
+        "D_gift": 2
+      },
+      "reasoning": "Honestly, I'm confused why Fatima and Darnell, who are clearly not on my budget, are validating Ad 5 as the 'smart' choice; their focus on thermals and build quality is irrelevant to me, but their agreement that the honesty is refreshing makes me trust it more. Ad 5 is still the winner because it admits the flaws (plastic, bad colors) which saves me from buyer's remorse, but I'm still hesitant because it doesn't mention student discounts or trade-ins, which is the only way this $799 price tag makes sense for my $450 limit.",
+      "objection": "The ad doesn't mention student discounts or trade-in value for my old Chromebook, so I don't know if I can actually afford this $799 laptop with my $450 budget."
+    },
+    "student_budget_gamer_1": {
+      "ranking": [
+        "E_honest_tradeoff",
+        "C_upgradable",
+        "D_gift",
+        "A_spec_sheet",
+        "B_proof_number",
+        "F_urgency"
+      ],
+      "click": "E_honest_tradeoff",
+      "interest": {
+        "E_honest_tradeoff": 3,
+        "B_proof_number": 1,
+        "D_gift": 2,
+        "C_upgradable": 3,
+        "A_spec_sheet": 1,
+        "F_urgency": 1
+      },
+      "reasoning": "The peers' emphasis on 'honesty' is a bit much; I don't click because a brand admits its flaws, I click because it prioritizes the specs I actually need (durability/upgradeability) over the fluff I ignore. Ad 1 is still the best because it explicitly mentions the 'plastic body,' which triggers my immediate skepticism about build quality, but it balances that by highlighting the upgradeable RAM/SSD, which is the only way this machine survives my 3-year plan without me having to replace it entirely.",
+      "objection": "It explicitly says 'plastic body,' which makes me worry the chassis will crack or creak during my commute, and I\u2019m skeptical that 'Thanksgiving price' isn't just a standard retail price dressed up to look like a deal."
+    },
+    "student_budget_gamer_2": {
+      "ranking": [
+        "E_honest_tradeoff",
+        "C_upgradable",
+        "D_gift",
+        "B_proof_number",
+        "A_spec_sheet",
+        "F_urgency"
+      ],
+      "click": "E_honest_tradeoff",
+      "interest": {
+        "A_spec_sheet": 1,
+        "B_proof_number": 2,
+        "D_gift": 3,
+        "E_honest_tradeoff": 5,
+        "C_upgradable": 4,
+        "F_urgency": 1
+      },
+      "reasoning": "The peers basically confirmed what I already knew: Ad 4 is the only one that respects my intelligence by admitting it's a plastic budget machine instead of trying to sell me a 'premium' fantasy I can't afford. I'm sticking with my gut because Ad 5's 'upgrade later' pitch is good, but Ad 4's honesty about the trade-offs (plastic body for better GPU) is the only thing that makes me trust it won't be a total waste of my $800.",
+      "objection": "Even with the upgradeable RAM/SSD, I'm terrified the 8GB of VRAM on the RTX 5050 is going to bottleneck me within two years, forcing me to buy a new GPU or laptop anyway, which would blow my budget."
+    },
+    "student_budget_gamer_3": {
+      "ranking": [
+        "E_honest_tradeoff",
+        "D_gift",
+        "A_spec_sheet",
+        "C_upgradable",
+        "B_proof_number",
+        "F_urgency"
+      ],
+      "click": "E_honest_tradeoff",
+      "interest": {
+        "C_upgradable": 3,
+        "F_urgency": 1,
+        "D_gift": 3,
+        "A_spec_sheet": 2,
+        "E_honest_tradeoff": 5,
+        "B_proof_number": 1
+      },
+      "reasoning": "The peers' comments actually reinforce my initial instinct; their appreciation for Ad 5's honesty about the plastic build and modest screen colors resonates with my own disdain for marketing fluff and my need for transparent trade-offs. I remain unimpressed by the urgency of Ad 2 or the irrelevant FPS stats in Ad 6, as I care far more about knowing exactly what I'm paying for in terms of durability and color accuracy than I do about raw gaming metrics.",
+      "objection": "The 'modest screen colors' are a dealbreaker for my work; even if the price is right, I cannot use a laptop with poor color accuracy for my graduate studies, so I would likely still pass unless I can verify the specific panel model."
+    },
+    "student_budget_gamer_4": {
+      "ranking": [
+        "E_honest_tradeoff",
+        "C_upgradable",
+        "A_spec_sheet",
+        "D_gift",
+        "B_proof_number",
+        "F_urgency"
+      ],
+      "click": "E_honest_tradeoff",
+      "interest": {
+        "C_upgradable": 2,
+        "D_gift": 2,
+        "A_spec_sheet": 3,
+        "F_urgency": 1,
+        "E_honest_tradeoff": 4,
+        "B_proof_number": 2
+      },
+      "reasoning": "Esperanza and Miguel confirmed that Ad 5 is the only one that doesn't feel like a scam by admitting the plastic build and screen limitations, which aligns with my need for honest trade-offs rather than lifestyle fluff. Ad 1 is a close second because it explicitly addresses my fear of obsolescence with upgrade slots, but Ad 5's directness about what you *don't* get feels more trustworthy for my tight budget.",
+      "objection": "I need to verify if the 'upgradeable' claim in Ad 1 or the 'performance focus' in Ad 5 comes with a standard warranty, because I can't afford to pay out of pocket for repairs if the plastic chassis cracks or the SSD fails within a year."
+    },
+    "parent_gift_buyer_0": {
+      "ranking": [
+        "E_honest_tradeoff",
+        "C_upgradable",
+        "D_gift",
+        "A_spec_sheet",
+        "F_urgency",
+        "B_proof_number"
+      ],
+      "click": "E_honest_tradeoff",
+      "interest": {
+        "C_upgradable": 1,
+        "F_urgency": 1,
+        "A_spec_sheet": 1,
+        "D_gift": 1,
+        "E_honest_tradeoff": 3,
+        "B_proof_number": 1
+      },
+      "reasoning": "The peers' emphasis on 'trust' and 'honesty' in Ad 5 resonates with my skepticism, but their focus on 'performance' and 'gaming' still feels like a trap for a parent trying to buy a school tool. I remain skeptical because I don't care about 'serious graphics' or 'frames per second'; I care if the thing survives a backpack and doesn't overheat during a Zoom call, which none of these ads explicitly guarantee.",
+      "objection": "Even if it's honest about the plastic, I'm worried that 'serious graphics' means it will run hot and loud in a classroom, and I don't know if the 'upgradeable' parts are actually easy for me to fix without paying a technician."
+    },
+    "parent_gift_buyer_1": {
+      "ranking": [
+        "D_gift",
+        "E_honest_tradeoff",
+        "C_upgradable",
+        "A_spec_sheet",
+        "B_proof_number",
+        "F_urgency"
+      ],
+      "click": "D_gift",
+      "interest": {
+        "E_honest_tradeoff": 2,
+        "B_proof_number": 1,
+        "A_spec_sheet": 2,
+        "F_urgency": 1,
+        "D_gift": 4,
+        "C_upgradable": 3
+      },
+      "reasoning": "I am not a student gamer; I am a busy parent who wants a safe, versatile tool for my teenagers, not a transparent confession of flaws like 'plastic body' or 'modest screen' which signals low quality to me. Ad 5 remains the best because it frames the laptop as a dual-purpose solution for school and leisure, which aligns with my need to avoid inequality and ensure the device is acceptable for homework, rather than just raw performance metrics or technical caveats that require me to research further.",
+      "objection": "I need to verify that the 'school' aspect implies robust content filtering or parental controls, not just a general statement, to ensure it is truly 'family-safe' for three different teens."
+    },
+    "parent_gift_buyer_2": {
+      "ranking": [
+        "D_gift",
+        "C_upgradable",
+        "A_spec_sheet",
+        "E_honest_tradeoff",
+        "B_proof_number",
+        "F_urgency"
+      ],
+      "click": "D_gift",
+      "interest": {
+        "D_gift": 3,
+        "C_upgradable": 2,
+        "A_spec_sheet": 2,
+        "E_honest_tradeoff": 1,
+        "F_urgency": 1,
+        "B_proof_number": 1
+      },
+      "reasoning": "I'm not a gamer and I don't care about 'frames per second' or 'RTX 5050' specs; that's just noise that makes me want to close the tab. I'm sticking with Ad 1 because it's the only one that sounds like a normal computer for school and family, not a toy, and I don't have time to read about plastic bodies or upgrade slots.",
+      "objection": "I need to know if the $799 price includes tax and shipping, or if I'll get hit with hidden fees at checkout like I always do."
+    },
+    "parent_gift_buyer_3": {
+      "ranking": [
+        "C_upgradable",
+        "E_honest_tradeoff",
+        "D_gift",
+        "B_proof_number",
+        "A_spec_sheet",
+        "F_urgency"
+      ],
+      "click": "C_upgradable",
+      "interest": {
+        "B_proof_number": 1,
+        "E_honest_tradeoff": 3,
+        "C_upgradable": 4,
+        "A_spec_sheet": 2,
+        "D_gift": 3,
+        "F_urgency": 1
+      },
+      "reasoning": "Mei-Ling\u2019s validation of Ad 2\u2019s honesty confirms my instinct that 'Expert Picks' should be transparent about trade-offs, but her focus on 'budget' and 'performance' misses my need for 'longevity' and 'reliability' which Ad 3 explicitly addresses through upgradeability. I remain skeptical of Ad 1\u2019s flashy FPS stats and Ad 6\u2019s urgency, but Ad 3\u2019s promise that I can fix issues later without buying a new machine aligns with my desire to avoid repeat purchases, even if I wish it carried a 'Parent Approved' badge.",
+      "objection": "While the upgradeability is appealing for longevity, the ad does not explicitly mention 'Parent Approved' or 'Award Winning' badges, and I am hesitant to trust that a 'plastic body' (as hinted in Ad 2) will withstand the daily wear and tear of a 16-year-old's use over several years."
+    },
+    "parent_gift_buyer_4": {
+      "ranking": [
+        "D_gift",
+        "A_spec_sheet",
+        "C_upgradable",
+        "E_honest_tradeoff",
+        "B_proof_number",
+        "F_urgency"
+      ],
+      "click": "D_gift",
+      "interest": {
+        "E_honest_tradeoff": 2,
+        "A_spec_sheet": 3,
+        "D_gift": 4,
+        "C_upgradable": 2,
+        "B_proof_number": 1,
+        "F_urgency": 1
+      },
+      "reasoning": "I appreciate that Beatrix and Maria found Ad 1's honesty about the plastic build refreshing, as it feels less like a 'sales pitch' and more like a factual description, which aligns with my distrust of aggressive marketing. However, I still find Ad 3 superior because it frames the purchase around 'school and game night,' directly addressing my need for educational value and screen time management, whereas Ad 1 focuses on technical trade-offs I don't care about.",
+      "objection": "Ad 3 still lists 'RTX 5050' and '144Hz' specs which I don't understand, and it doesn't explicitly mention parental controls or screen time management tools, which are my primary concerns for a 15-year-old."
+    },
+    "competitive_enthusiast_0": {
+      "ranking": [
+        "E_honest_tradeoff",
+        "B_proof_number",
+        "C_upgradable",
+        "D_gift",
+        "A_spec_sheet",
+        "F_urgency"
+      ],
+      "click": null,
+      "interest": {
+        "E_honest_tradeoff": 2,
+        "F_urgency": 1,
+        "D_gift": 2,
+        "A_spec_sheet": 1,
+        "C_upgradable": 2,
+        "B_proof_number": 2
+      },
+      "reasoning": "The peers are right that Ad 1's honesty about the plastic chassis and mediocre screen is the only thing that doesn't make me want to close the tab, but it still fails to address the thermal throttling data I actually care about. I'm not clicking anything because a single FPS number in Ad 6 is meaningless without a sustained load test, and I don't trust any of these ads to tell me if this thing will cook itself in ten minutes of ranked play.",
+      "objection": "Ad 1 admits the screen is bad, but it completely omits any information about thermal throttling or fan noise under load, which is the only metric that matters for my use case."
+    },
+    "competitive_enthusiast_1": {
+      "ranking": [
+        "E_honest_tradeoff",
+        "C_upgradable",
+        "B_proof_number",
+        "A_spec_sheet",
+        "D_gift",
+        "F_urgency"
+      ],
+      "click": "E_honest_tradeoff",
+      "interest": {
+        "B_proof_number": 1,
+        "A_spec_sheet": 2,
+        "D_gift": 2,
+        "C_upgradable": 3,
+        "F_urgency": 1,
+        "E_honest_tradeoff": 4
+      },
+      "reasoning": "Callum's comment about 'gaming' branding repelling him actually reinforces my own disdain for that aesthetic, so it doesn't make me doubt my choice, but it does highlight that Ad 6's honesty about the plastic build is the only thing that might make this laptop viable for someone who cares about performance over looks. I'm still not clicking because 8GB of VRAM is a hard ceiling for the 1080p/144Hz workflow I need, and the 'plastic' admission confirms it's not a daily carry device, but Ad 6 is the only one that didn't insult my intelligence with RGB nonsense or fake urgency.",
+      "objection": "The 8GB VRAM limit on the RTX 5050 is a significant bottleneck for high-settings gameplay and OBS encoding, and the plastic chassis makes it unsuitable for daily carry use."
+    },
+    "competitive_enthusiast_2": {
+      "ranking": [
+        "B_proof_number",
+        "C_upgradable",
+        "D_gift",
+        "E_honest_tradeoff",
+        "F_urgency",
+        "A_spec_sheet"
+      ],
+      "click": "B_proof_number",
+      "interest": {
+        "F_urgency": 1,
+        "D_gift": 1,
+        "C_upgradable": 1,
+        "A_spec_sheet": 1,
+        "E_honest_tradeoff": 1,
+        "B_proof_number": 2
+      },
+      "reasoning": "The peers' focus on 'honesty' regarding the plastic build is irrelevant to me; I care about thermal headroom and whether the RTX 5050 is bottlenecked by a weak cooling solution, not whether the chassis looks cheap. Ad 6 is the only one that attempts to quantify performance, but without mentioning TDP or thermals, it\u2019s just a number I can't verify against my desktop's RTX 3070, so it remains my top choice only because it's the least 'marketing fluff' and most data-oriented.",
+      "objection": "176fps in CS2 is meaningless without knowing the sustained clock speeds and thermal throttling behavior; if the cooling can't maintain boost clocks, that number is a lie, and I won't pay $799 for a device that can't compete with my existing desktop setup."
+    },
+    "competitive_enthusiast_3": {
+      "ranking": [
+        "C_upgradable",
+        "E_honest_tradeoff",
+        "B_proof_number",
+        "D_gift",
+        "A_spec_sheet",
+        "F_urgency"
+      ],
+      "click": "C_upgradable",
+      "interest": {
+        "B_proof_number": 2,
+        "E_honest_tradeoff": 3,
+        "C_upgradable": 4,
+        "A_spec_sheet": 1,
+        "D_gift": 2,
+        "F_urgency": 1
+      },
+      "reasoning": "I appreciate the honesty in Ad 2 about the plastic build and screen limitations, but as a student who checks Reddit, I know that 'modest colors' and 'plastic' are code for a bad experience that won't hold up for daily commuting or long sessions. The peers are overvaluing 'transparency' when I actually need to know if the battery life is decent enough to survive a day on campus without carrying a heavy brick, which none of these ads address.",
+      "objection": "None of the ads mention battery life, and if I can't play ranked matches on the go without a power outlet, this laptop is useless for my schedule."
+    },
+    "competitive_enthusiast_4": {
+      "ranking": [
+        "E_honest_tradeoff",
+        "C_upgradable",
+        "A_spec_sheet",
+        "D_gift",
+        "B_proof_number",
+        "F_urgency"
+      ],
+      "click": "E_honest_tradeoff",
+      "interest": {
+        "B_proof_number": 1,
+        "A_spec_sheet": 3,
+        "E_honest_tradeoff": 4,
+        "F_urgency": 1,
+        "C_upgradable": 3,
+        "D_gift": 2
+      },
+      "reasoning": "Callum's critique reinforced my skepticism about the 'gamer' branding, but since I already know I'm not looking for a premium business-class build at this price point, I didn't shift away from the performance focus. Ad 3 remains the best fit because it respects my intelligence by admitting the plastic chassis while highlighting the RTX 5050, which is the specific hardware I need for reliable ranked sessions without paying for a brand I don't trust.",
+      "objection": "The ad admits to a 'modest screen' and plastic body, so I need to verify via tech journalism if the display color accuracy is sufficient for my marketing analysis work or if I'll need an external monitor immediately."
+    },
+    "work_and_play_hybrid_0": {
+      "ranking": [
+        "E_honest_tradeoff",
+        "B_proof_number",
+        "C_upgradable",
+        "A_spec_sheet",
+        "D_gift",
+        "F_urgency"
+      ],
+      "click": null,
+      "interest": {
+        "C_upgradable": 1,
+        "B_proof_number": 1,
+        "A_spec_sheet": 1,
+        "F_urgency": 1,
+        "D_gift": 1,
+        "E_honest_tradeoff": 2
+      },
+      "reasoning": "The peers' emphasis on 'honesty' in Ad 6 is a distraction; I don't care about the plastic build if the thermals and color accuracy are subpar, which Ad 6 explicitly admits ('modest screen colors'). As a professional editor, a 1080p panel with poor color reproduction is a non-starter for my workflow, making this device useless for my primary need regardless of its gaming FPS.",
+      "objection": "The 'modest screen colors' and 1080p resolution make this machine completely unsuitable for professional color-accurate video editing, which is my primary use case."
+    },
+    "work_and_play_hybrid_1": {
+      "ranking": [
+        "E_honest_tradeoff",
+        "C_upgradable",
+        "D_gift",
+        "A_spec_sheet",
+        "B_proof_number",
+        "F_urgency"
+      ],
+      "click": "E_honest_tradeoff",
+      "interest": {
+        "A_spec_sheet": 1,
+        "D_gift": 2,
+        "B_proof_number": 1,
+        "C_upgradable": 3,
+        "F_urgency": 1,
+        "E_honest_tradeoff": 4
+      },
+      "reasoning": "The peers confirmed my suspicion that 'work-and-play' is just code for 'mediocre at both,' so I'm sticking with Ad 6 because it\u2019s the only one that doesn't insult my intelligence by hiding the plastic chassis trade-off. I\u2019m still skeptical of the RTX 5050\u2019s thermal behavior under sustained coding loads, but at least Ad 6 admits the machine isn't a premium build, which is better than the hype in Ad 3.",
+      "objection": "Ad 6 admits the screen and build are 'modest,' but it fails to mention thermal throttling or fan noise, which are the actual dealbreakers for a developer who needs a quiet environment under load."
+    },
+    "work_and_play_hybrid_2": {
+      "ranking": [
+        "E_honest_tradeoff",
+        "D_gift",
+        "C_upgradable",
+        "A_spec_sheet",
+        "B_proof_number",
+        "F_urgency"
+      ],
+      "click": "E_honest_tradeoff",
+      "interest": {
+        "E_honest_tradeoff": 4,
+        "B_proof_number": 1,
+        "D_gift": 3,
+        "A_spec_sheet": 2,
+        "C_upgradable": 3,
+        "F_urgency": 1
+      },
+      "reasoning": "Fatima's point about honesty resonates with me; I\u2019m too tired after 4 AM shifts to be lied to about build quality, and knowing the screen is 'modest' helps me manage expectations for my back pain. However, Ad 3\u2019s focus on 'school and game night' is still too generic for my specific need to carry this thing to work without killing my back, so I\u2019m sticking with Ad 1 because it at least doesn't insult my intelligence with fake hype.",
+      "objection": "The ad admits the body is plastic and the screen colors are modest, but it doesn't mention weight or battery life, which are the only things that will actually let me use this after a night shift without my back hurting."
+    },
+    "work_and_play_hybrid_3": {
+      "ranking": [
+        "E_honest_tradeoff",
+        "D_gift",
+        "C_upgradable",
+        "A_spec_sheet",
+        "F_urgency",
+        "B_proof_number"
+      ],
+      "click": "E_honest_tradeoff",
+      "interest": {
+        "A_spec_sheet": 1,
+        "C_upgradable": 2,
+        "D_gift": 3,
+        "F_urgency": 1,
+        "B_proof_number": 1,
+        "E_honest_tradeoff": 4
+      },
+      "reasoning": "Ad 6 still wins because it\u2019s the only one that doesn\u2019t lie to me about the plastic build, which matters more to me than a 'gamer' badge I don\u2019t want. I\u2019m ignoring the peer comments because they\u2019re either too technical or too focused on their kids, whereas I just need a machine that won\u2019t fall apart while I\u2019m grading papers.",
+      "objection": "The plastic body mentioned in Ad 6 worries me; I need to know if 'durable' means it can survive being thrown in a bag with my grading papers, or if it will crack like my current laptop."
+    },
+    "work_and_play_hybrid_4": {
+      "ranking": [
+        "C_upgradable",
+        "E_honest_tradeoff",
+        "A_spec_sheet",
+        "D_gift",
+        "B_proof_number",
+        "F_urgency"
+      ],
+      "click": null,
+      "interest": {
+        "E_honest_tradeoff": 1,
+        "B_proof_number": 1,
+        "D_gift": 1,
+        "F_urgency": 1,
+        "C_upgradable": 1,
+        "A_spec_sheet": 1
+      },
+      "reasoning": "I'm not buying a plastic HP Victus that screams 'gaming' in a client meeting, so the peers' focus on value or school use is completely irrelevant to my need for a discreet, premium workhorse. None of these ads address the portability or professional aesthetic I require, so I remain uninterested in all of them.",
+      "objection": "The device is a loud, plastic 'toy' that lacks the premium build quality and professional aesthetic required for business travel."
+    }
+  }
+}

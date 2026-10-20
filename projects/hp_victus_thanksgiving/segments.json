@@ -1,0 +1,50 @@
+[
+  {
+    "id": "student_budget_gamer",
+    "name": "Student gamer on a budget",
+    "description": "aged 18 to 24, student or entry-level worker, saves for months to afford a laptop, games on an old laptop or console, reads reviews on YouTube and Reddit and watches every dollar",
+    "situations": [
+      "college freshman in a dorm",
+      "community-college student living with parents",
+      "high-school senior saving birthday and job money",
+      "grad student sharing an apartment",
+      "part-time retail worker, 20, living at home"
+    ]
+  },
+  {
+    "id": "parent_gift_buyer",
+    "name": "Parent buying a gift",
+    "description": "aged 35 to 60, buying for a teenager or young adult, not a gamer themself, nervous about overspending, relies on the retailer's claims and the kid's wish list",
+    "situations": [
+      "parent of a 14-year-old with a tight holiday budget",
+      "two-income family with three kids",
+      "single parent working two jobs",
+      "grandparent buying for a grandson",
+      "dad who has never owned a gaming PC"
+    ]
+  },
+  {
+    "id": "competitive_enthusiast",
+    "name": "Competitive enthusiast",
+    "description": "aged 20 to 35, plays ranked shooters or MOBAs most nights, knows terms like power limit, refresh rate and VRAM, distrusts marketing and checks benchmarks before buying",
+    "situations": [
+      "plays ranked FPS every night after work",
+      "part-time streamer with a small audience",
+      "PC-building hobbyist who owns a desktop",
+      "esports club member at university",
+      "returning player replacing a broken laptop"
+    ]
+  },
+  {
+    "id": "work_and_play_hybrid",
+    "name": "Work-and-play buyer",
+    "description": "aged 25 to 45, needs one laptop for remote work or light creative work by day and gaming at night, cares about screen, build and battery, less driven by the lowest price",
+    "situations": [
+      "freelance video editor",
+      "software developer working from home",
+      "nurse who games after night shifts",
+      "high-school teacher who plays on weekends",
+      "small-business owner who travels"
+    ]
+  }
+]
