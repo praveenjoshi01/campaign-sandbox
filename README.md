@@ -96,3 +96,7 @@ docs/             article and its images
 - The `pantrypilot` example output was produced before two fixes (peer quotes used the wrong ad numbers in round 2; the fact list dropped numbers). Rerun it before relying on it.
 - Phase 2: feed the brief from competitor intelligence (for example the playbook teardown described in [this article](https://praveenjoshi007.medium.com/i-built-an-ai-that-reverse-engineers-your-competitors-entire-marketing-playbook-in-one-click-537f77f6b2dc)).
 - Possible move to MiroFish-Offline (Neo4j and OASIS) once multi-round social dynamics matter.
+
+## License
+
+[MIT](LICENSE) © 2026 Praveen Joshi
